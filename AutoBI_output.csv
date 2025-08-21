@@ -1,0 +1,1341 @@
+POLICYNUM,INSAGE,INSAGEBIN,VEHICLE_TYPE,GENDER,MARITAL_STATUS,PREVCLM,SEATBELT,ACTUALDAMAGE,LOSS
+5,50.0,45-55,Small car,Male,,No,Yes,34940.0,33440.0
+13,28.0,25-35,Big car,Female,Single,Yes,Yes,10892.0,9392.0
+66,5.0,18 and below,Big car,Male,Single,No,Yes,330.0,0.0
+71,32.0,25-35,Small car,Male,Married,No,No,11037.0,9537.0
+96,30.0,25-35,Big car,Male,Divorced/Separated,No,Yes,138.0,0.0
+97,35.0,35-45,Small car,Female,Married,No,Yes,309.0,0.0
+120,19.0,18-25,Small car,Male,Single,No,Yes,3538.0,2038.0
+136,34.0,25-35,Small car,Female,Single,No,Yes,4882.0,3382.0
+152,61.0,55 and older,Big car,Female,Single,No,Yes,874.0,0.0
+155,,,Big car,Male,Single,No,Yes,1351.0,0.0
+162,37.0,35-45,Small car,Female,Married,No,Yes,6290.0,4790.0
+248,42.0,35-45,Small car,Male,Married,No,Yes,29620.0,28120.0
+250,17.0,18 and below,Big car,Male,Single,No,Yes,2678.0,1178.0
+251,40.0,35-45,Small car,Female,Married,No,Yes,11673.0,10173.0
+269,37.0,35-45,Big car,Female,Married,No,Yes,243.0,0.0
+272,19.0,18-25,Big car,Female,Single,Yes,Yes,1053.0,0.0
+334,58.0,55 and older,Big car,Female,Married,No,Yes,150.0,0.0
+361,58.0,55 and older,Small car,Male,Married,No,Yes,758.0,0.0
+376,3.0,18 and below,Big car,Male,Single,No,Yes,100.0,0.0
+412,38.0,35-45,Small car,Female,Divorced/Separated,No,Yes,4754.0,3254.0
+479,37.0,35-45,Small car,Male,Single,,Yes,3200.0,1700.0
+481,39.0,35-45,Big car,Female,Married,No,Yes,230.0,0.0
+551,38.0,35-45,Small car,Male,Divorced/Separated,Yes,Yes,26262.0,24762.0
+569,31.0,25-35,Small car,Male,Single,,Yes,1619.0,119.0
+581,54.0,45-55,Big car,Male,Married,No,Yes,20040.0,18540.0
+608,3.0,18 and below,Big car,Female,Single,No,Yes,787.0,0.0
+613,62.0,55 and older,Big car,Male,Single,No,Yes,250.0,0.0
+616,10.0,18 and below,Small car,Male,Single,No,Yes,1405.0,0.0
+617,40.0,35-45,Big car,Male,Married,No,Yes,415.0,0.0
+631,,,Small car,Male,Single,No,Yes,595.0,0.0
+640,26.0,25-35,Big car,Female,Divorced/Separated,No,Yes,3994.0,2494.0
+641,,,Big car,Male,Single,No,Yes,337.0,0.0
+685,19.0,18-25,Big car,Male,Single,No,Yes,603.0,0.0
+700,35.0,35-45,Small car,Female,Single,No,Yes,2673.0,1173.0
+721,35.0,35-45,Small car,Female,Married,No,Yes,4752.0,3252.0
+766,27.0,25-35,Small car,Female,Married,No,Yes,3538.0,2038.0
+775,42.0,35-45,Small car,Female,Married,Yes,Yes,3285.0,1785.0
+805,50.0,45-55,Small car,Female,Married,No,Yes,13711.0,12211.0
+829,33.0,25-35,Big car,Male,Single,No,Yes,386.0,0.0
+838,19.0,18-25,Small car,Male,Single,No,Yes,2970.0,1470.0
+852,34.0,25-35,Big car,Male,Married,No,Yes,1914.0,414.0
+872,33.0,25-35,Small car,Female,Married,Yes,Yes,8090.0,6590.0
+915,46.0,45-55,Small car,Female,Married,No,Yes,8189.999999999999,6689.999999999999
+942,55.0,55 and older,Big car,Female,Single,No,Yes,23201.0,21701.0
+972,5.0,18 and below,Big car,Male,Single,No,Yes,460.0,0.0
+1062,,,Big car,Female,Married,No,Yes,3982.0,2482.0
+1063,26.0,25-35,Small car,Male,Married,Yes,Yes,2740.0,1240.0
+1078,2.0,18 and below,Big car,Male,Single,No,Yes,100.0,0.0
+1092,,,Small car,Male,Single,No,Yes,2103.0,603.0
+1101,41.0,35-45,Small car,Male,Married,No,Yes,3200.0,1700.0
+1104,29.0,25-35,Small car,Female,Divorced/Separated,No,Yes,3777.0,2277.0
+1154,54.0,45-55,Big car,Male,Married,No,Yes,1975.0,475.0
+1170,,,Big car,Female,Married,No,Yes,497.0,0.0
+1186,,,Big car,Female,Single,No,Yes,335.0,0.0
+1278,61.0,55 and older,Small car,Female,Married,No,Yes,2669.0,1169.0
+1295,31.0,25-35,Small car,Male,Married,No,Yes,33633.0,32133.0
+1312,,,Big car,Female,Married,No,Yes,305.0,0.0
+1314,20.0,18-25,Small car,Female,Single,Yes,Yes,6694.0,5194.0
+1335,44.0,35-45,Big car,Female,Married,No,Yes,239.0,0.0
+1339,21.0,18-25,Big car,Male,Single,No,Yes,987.0,0.0
+1354,,,Big car,Female,Married,No,Yes,1000.0,0.0
+1359,,,Big car,Male,Married,No,Yes,1530.0,30.0
+1366,35.0,35-45,Small car,Male,Married,,,5563.0,4063.0
+1387,54.0,45-55,Big car,Male,Married,No,Yes,270.0,0.0
+1415,38.0,35-45,Small car,Female,Married,No,Yes,2523.0,1023.0
+1445,61.0,55 and older,Big car,Female,Married,No,Yes,730.0,0.0
+1470,,,Big car,Male,Married,No,Yes,3638.0,2138.0
+1505,31.0,25-35,Big car,Male,Single,No,Yes,1081.0,0.0
+1530,27.0,25-35,Big car,Female,Married,Yes,Yes,1320.0,0.0
+1590,4.0,18 and below,Small car,Male,Single,No,Yes,300.0,0.0
+1607,56.0,55 and older,Small car,Male,Single,No,Yes,44061.0,42561.0
+1608,63.0,55 and older,Small car,Male,Married,No,Yes,2600.0,1100.0
+1624,55.0,55 and older,Small car,Male,Married,No,Yes,1895.0,395.0
+1664,47.0,45-55,Small car,Male,Married,No,Yes,1442.0,0.0
+1671,0.0,18 and below,Big car,Male,Single,No,Yes,445.0,0.0
+1740,15.0,18 and below,Small car,Male,Single,No,Yes,3510.0,2010.0
+1743,38.0,35-45,Big car,Male,Married,No,Yes,1919.0,419.0
+1780,,,Big car,Female,Single,No,Yes,100.0,0.0
+1784,40.0,35-45,Small car,Male,Married,No,Yes,2875.0,1375.0
+1791,57.0,55 and older,Big car,Male,Single,No,Yes,3889.0,2389.0
+1840,27.0,25-35,Small car,Female,Married,No,Yes,2765.0,1265.0
+1918,12.0,18 and below,Big car,Female,Single,No,Yes,1527.0,27.0
+1970,,,Small car,Female,Married,,Yes,9730.0,8230.0
+1996,22.0,18-25,Small car,Female,Single,Yes,Yes,2720.0,1220.0
+2002,40.0,35-45,Small car,Male,Married,No,Yes,10834.0,9334.0
+2009,21.0,18-25,Big car,Female,Single,No,Yes,2132.0,632.0
+2013,28.0,25-35,Small car,Male,Single,No,Yes,3370.0,1870.0
+2020,35.0,35-45,Big car,Female,Married,No,Yes,250.0,0.0
+2023,22.0,18-25,Small car,Female,Single,No,Yes,4227.0,2727.0
+2027,26.0,25-35,Small car,Female,Married,No,Yes,4440.0,2940.0
+2028,,,Big car,Female,Married,No,Yes,800.0,0.0
+2054,10.0,18 and below,Small car,Female,Single,No,Yes,4506.0,3006.0
+2063,18.0,18-25,Big car,Female,Single,No,Yes,1860.0,360.0
+2092,32.0,25-35,Small car,Male,Divorced/Separated,No,Yes,13028.0,11528.0
+2121,51.0,45-55,Small car,Male,Single,No,Yes,2467.0,967.0
+2122,72.0,55 and older,Big car,Female,Married,No,Yes,198.0,0.0
+2123,,,Big car,Female,,No,Yes,3682.0,2182.0
+2154,2.0,18 and below,Small car,Male,Single,No,Yes,34572.0,33072.0
+2157,26.0,25-35,Small car,Male,Married,No,Yes,8698.0,7198.0
+2159,19.0,18-25,Big car,Male,Single,No,Yes,460.0,0.0
+2178,16.0,18 and below,Big car,Male,Single,No,Yes,721.0,0.0
+2256,43.0,35-45,Big car,Female,Married,No,Yes,535.0,0.0
+2264,35.0,35-45,Small car,Female,Married,No,Yes,2435.0,935.0
+2289,,,Small car,Female,Married,No,Yes,2433.0,933.0
+2309,17.0,18 and below,Big car,Male,Single,No,Yes,589.0,0.0
+2314,43.0,35-45,Small car,Male,Divorced/Separated,No,Yes,14485.0,12985.0
+2325,29.0,25-35,Small car,Male,Single,No,Yes,40364.0,38864.0
+2349,20.0,18-25,Small car,Female,Married,Yes,Yes,3975.0,2475.0
+2388,32.0,25-35,Big car,Female,Single,No,Yes,1595.0,95.0
+2404,,,Small car,Male,Single,No,Yes,755.0,0.0
+2470,69.0,55 and older,Small car,Male,Married,No,Yes,2051.0,551.0
+2473,33.0,25-35,Big car,Female,Married,No,Yes,421.0,0.0
+2492,41.0,35-45,Small car,Female,Married,Yes,Yes,5444.0,3944.0
+2496,,,Big car,Female,,No,Yes,1365.0,0.0
+2568,18.0,18-25,Big car,Female,Single,No,Yes,380.0,0.0
+2589,,,Small car,Male,Married,No,Yes,3060.0,1560.0
+2599,,,Big car,Female,Married,No,Yes,765.0,0.0
+2616,42.0,35-45,Small car,Female,Married,No,Yes,3595.0,2095.0
+2655,43.0,35-45,Small car,Female,,No,Yes,3132.0,1632.0
+2662,,,Big car,Female,Single,No,Yes,6350.0,4850.0
+2691,21.0,18-25,Small car,Female,Single,No,Yes,11315.0,9815.0
+2741,19.0,18-25,Small car,Female,Single,No,Yes,5823.0,4323.0
+2755,46.0,45-55,Small car,Female,Married,No,Yes,10050.0,8550.0
+2758,17.0,18 and below,Small car,Female,Single,No,Yes,2991.0,1491.0
+2838,31.0,25-35,Small car,Female,Married,No,Yes,4424.0,2924.0
+2846,43.0,35-45,Big car,Female,Married,No,Yes,3863.0,2363.0
+2879,,,Big car,Male,Married,No,Yes,250.0,0.0
+2896,33.0,25-35,Small car,Male,Single,No,Yes,7762.0,6262.0
+2939,54.0,45-55,Big car,Male,Single,No,Yes,747.0,0.0
+2958,40.0,35-45,Big car,Male,Single,No,,2577.0,1077.0
+2991,48.0,45-55,Big car,Female,Single,No,Yes,345.0,0.0
+3067,50.0,45-55,Big car,Female,Married,No,Yes,1156.0,0.0
+3087,,,Small car,,,,,3140.0,1640.0
+3093,,,Small car,Female,Divorced/Separated,No,Yes,9796.0,8296.0
+3147,32.0,25-35,Small car,Female,Married,No,Yes,4460.0,2960.0
+3252,12.0,18 and below,Big car,Male,Single,No,Yes,180.0,0.0
+3257,,,Big car,Male,Single,No,Yes,85.0,0.0
+3291,10.0,18 and below,Small car,Male,Single,No,No,2005.0,505.0
+3298,62.0,55 and older,Big car,Female,Divorced/Separated,No,Yes,535.0,0.0
+3305,18.0,18-25,Small car,Male,Single,No,Yes,1973.0,473.0
+3324,17.0,18 and below,Small car,Female,Single,No,Yes,1655.0,155.0
+3337,37.0,35-45,Big car,Female,Married,No,Yes,3667.0,2167.0
+3384,,,Small car,Male,,No,Yes,1625.0,125.0
+3443,4.0,18 and below,Small car,Male,Married,No,Yes,18626.0,17126.0
+3446,75.0,55 and older,Small car,Male,Married,No,Yes,3010.0,1510.0
+3465,81.0,55 and older,Big car,Female,Married,No,Yes,192.0,0.0
+3510,33.0,25-35,Big car,Male,Married,No,Yes,2380.0,880.0
+3532,16.0,18 and below,Small car,Male,Single,No,Yes,49561.0,48061.0
+3546,40.0,35-45,Small car,Female,Married,No,Yes,59497.0,57997.0
+3562,21.0,18-25,Big car,Female,Single,No,Yes,443.0,0.0
+3572,40.0,35-45,Small car,Female,Married,No,Yes,8741.0,7241.0
+3580,,,Small car,Female,Single,No,Yes,2790.0,1290.0
+3605,16.0,18 and below,Big car,Female,Single,No,Yes,175.0,0.0
+3667,66.0,55 and older,Small car,Male,Single,No,Yes,11517.0,10017.0
+3668,42.0,35-45,Small car,Female,Married,No,Yes,2579.0,1079.0
+3677,56.0,55 and older,Small car,Female,Married,No,Yes,6440.0,4940.0
+3699,27.0,25-35,Small car,Male,Single,No,Yes,33452.0,31952.0
+3717,23.0,18-25,Small car,Female,Married,No,Yes,40461.0,38961.0
+3763,10.0,18 and below,Small car,Male,Single,,,9032.0,7532.0
+3792,52.0,45-55,Big car,Male,Married,Yes,Yes,150.0,0.0
+3810,33.0,25-35,Big car,Male,Single,Yes,Yes,2509.0,1009.0
+3848,21.0,18-25,Big car,Male,Single,No,Yes,375.0,0.0
+3874,,,Big car,Female,Single,No,Yes,810.0,0.0
+3902,28.0,25-35,Small car,Female,Married,No,Yes,4189.0,2689.0
+3906,39.0,35-45,Big car,Male,Married,Yes,,248.0,0.0
+3910,0.0,18 and below,Big car,Male,Single,No,Yes,120.0,0.0
+3915,46.0,45-55,Big car,Male,Single,No,Yes,678.0,0.0
+3921,39.0,35-45,Big car,Female,Single,Yes,Yes,240.0,0.0
+3939,20.0,18-25,Small car,Male,Married,No,Yes,14239.0,12739.0
+3974,34.0,25-35,Small car,Female,Single,No,Yes,1210.0,0.0
+3995,18.0,18-25,Small car,Male,Married,No,Yes,471.0,0.0
+4066,42.0,35-45,Small car,Female,Divorced/Separated,No,Yes,4840.0,3340.0
+4083,17.0,18 and below,Small car,Female,Single,No,Yes,4503.0,3003.0
+4100,28.0,25-35,Small car,Female,Married,No,Yes,2638.0,1138.0
+4116,42.0,35-45,Small car,Female,Married,No,Yes,3489.0,1989.0
+4184,21.0,18-25,Big car,Male,Single,No,Yes,4375.0,2875.0
+4188,12.0,18 and below,Big car,Female,Single,No,Yes,1480.0,0.0
+4196,16.0,18 and below,Big car,Female,Single,No,Yes,614.0,0.0
+4202,14.0,18 and below,Big car,Female,Single,No,Yes,4227.0,2727.0
+4231,25.0,25-35,Small car,Male,Single,No,Yes,9898.0,8398.0
+4237,18.0,18-25,Big car,Male,Single,Yes,Yes,2667.0,1167.0
+4248,5.0,18 and below,Big car,Male,Single,No,Yes,100.0,0.0
+4296,11.0,18 and below,Big car,Male,Single,No,Yes,1440.0,0.0
+4409,,,Small car,Female,Single,No,Yes,12009.0,10509.0
+4465,,,Big car,Male,Single,No,Yes,7164.0,5664.0
+4491,41.0,35-45,Small car,Female,Married,No,Yes,2530.0,1030.0
+4517,,,Small car,Female,Single,No,Yes,1377.0,0.0
+4562,62.0,55 and older,Small car,Male,Married,No,Yes,1317.0,0.0
+4593,43.0,35-45,Small car,Male,Single,,Yes,1123.0,0.0
+4682,65.0,55 and older,Big car,Female,Married,Yes,Yes,1373.0,0.0
+4684,24.0,18-25,Big car,Female,Single,No,Yes,2595.0,1095.0
+4695,21.0,18-25,Small car,Male,Single,No,Yes,5345.0,3845.0
+4707,6.0,18 and below,Big car,Female,Single,No,Yes,100.0,0.0
+4708,49.0,45-55,Big car,Female,Married,No,Yes,3968.0,2468.0
+4780,33.0,25-35,Small car,Female,Married,No,Yes,627.0,0.0
+4789,18.0,18-25,Big car,Female,Single,No,Yes,2478.0,978.0
+4799,31.0,25-35,Small car,Male,Married,No,Yes,3677.0,2177.0
+4835,50.0,45-55,Big car,Female,Married,No,Yes,1245.0,0.0
+4844,49.0,45-55,Small car,Male,Married,No,Yes,390.0,0.0
+4925,19.0,18-25,Big car,Female,Single,,Yes,3611.0,2111.0
+4929,27.0,25-35,Big car,Female,Married,No,Yes,1054.0,0.0
+4935,55.0,55 and older,Big car,Female,Single,No,Yes,500.0,0.0
+4970,28.0,25-35,Small car,Female,Single,No,Yes,3086.0,1586.0
+5001,20.0,18-25,Small car,Female,Single,Yes,Yes,2847.0,1347.0
+5020,38.0,35-45,Small car,Female,Married,Yes,Yes,724.0,0.0
+5152,22.0,18-25,Small car,Female,Married,No,Yes,2210.0,710.0
+5176,,,Big car,Female,Single,No,Yes,208.0,0.0
+5208,42.0,35-45,Big car,Male,Married,No,Yes,1795.0,295.0
+5211,37.0,35-45,Small car,Female,Married,No,Yes,25826.0,24326.0
+5252,23.0,18-25,Big car,Male,Married,Yes,Yes,4508.0,3008.0
+5284,49.0,45-55,Big car,Female,Married,No,Yes,618.0,0.0
+5287,21.0,18-25,Big car,Female,Single,No,Yes,886.0,0.0
+5304,4.0,18 and below,Big car,Female,Single,No,Yes,100.0,0.0
+5340,40.0,35-45,Big car,Female,Married,No,Yes,3751.0,2251.0
+5359,60.0,55 and older,Small car,Female,Single,No,Yes,466.0,0.0
+5376,77.0,55 and older,Big car,Female,Widowed,No,Yes,944.0,0.0
+5380,21.0,18-25,Big car,Female,Single,No,Yes,3435.0,1935.0
+5382,18.0,18-25,Small car,Female,Single,No,Yes,5419.0,3919.0
+5410,11.0,18 and below,Big car,Female,Single,No,Yes,140.0,0.0
+5492,24.0,18-25,Big car,Female,Single,No,Yes,818.0,0.0
+5514,17.0,18 and below,Big car,Female,Single,No,No,1983.0,483.0
+5547,44.0,35-45,Big car,Male,Married,No,Yes,35.0,0.0
+5560,,,Big car,Male,Married,No,Yes,3023.0,1523.0
+5639,19.0,18-25,Big car,Male,Single,No,Yes,2380.0,880.0
+5642,16.0,18 and below,Big car,Male,Single,No,Yes,640.0,0.0
+5666,29.0,25-35,Small car,Male,Married,No,Yes,2644.0,1144.0
+5685,16.0,18 and below,Big car,Female,Single,No,Yes,2462.0,962.0
+5718,17.0,18 and below,Small car,Male,Single,No,Yes,640.0,0.0
+5730,35.0,35-45,Small car,Female,Married,No,Yes,114604.0,113104.0
+5745,32.0,25-35,Big car,Female,Married,No,Yes,3950.0,2450.0
+5748,49.0,45-55,Big car,Male,Married,No,Yes,250.0,0.0
+5758,39.0,35-45,Big car,Male,Married,No,Yes,2041.0,541.0
+5800,34.0,25-35,Big car,Female,Single,No,Yes,4091.0,2591.0
+5829,37.0,35-45,Small car,Male,Married,Yes,Yes,2571.0,1071.0
+5882,40.0,35-45,Small car,Female,Widowed,,Yes,3068.0,1568.0
+5900,27.0,25-35,Small car,Female,Married,No,Yes,2629.0,1129.0
+5928,5.0,18 and below,Small car,Female,Single,No,Yes,912.0,0.0
+5949,29.0,25-35,Small car,Female,Single,Yes,Yes,1885.0,385.0
+5954,26.0,25-35,Big car,Female,Single,No,Yes,1968.0,468.0
+5956,16.0,18 and below,Big car,Female,Married,No,Yes,1122.0,0.0
+5992,34.0,25-35,Big car,Male,Married,No,Yes,1660.0,160.0
+6024,38.0,35-45,Big car,Female,Married,No,Yes,6509.0,5009.0
+6081,42.0,35-45,Small car,Male,Married,No,Yes,40000.0,38500.0
+6101,35.0,35-45,Small car,Male,Married,No,Yes,3033.0,1533.0
+6105,5.0,18 and below,Big car,Female,Single,No,Yes,1094.0,0.0
+6118,41.0,35-45,Big car,Female,Single,No,Yes,3700.0,2200.0
+6234,23.0,18-25,Big car,Female,Married,No,Yes,1958.0,458.0
+6295,17.0,18 and below,Big car,Female,Single,No,Yes,500.0,0.0
+6323,,,Small car,Male,Single,No,Yes,2835.0,1335.0
+6330,18.0,18-25,Big car,Female,Single,No,Yes,234.0,0.0
+6331,49.0,45-55,Big car,Female,Single,No,Yes,520.0,0.0
+6368,51.0,45-55,Small car,Female,Married,No,Yes,6608.0,5108.0
+6419,50.0,45-55,Big car,Male,Married,No,Yes,350.0,0.0
+6434,20.0,18-25,Small car,Male,Single,No,Yes,5317.0,3817.0
+6492,,,Small car,Female,Married,No,Yes,3974.0,2474.0
+6543,31.0,25-35,Small car,Male,Single,No,Yes,4010.0,2510.0
+6571,27.0,25-35,Small car,Female,Single,No,,3630.0,2130.0
+6579,25.0,25-35,Small car,Male,Single,No,Yes,3170.0,1670.0
+6593,11.0,18 and below,Small car,Male,Single,No,Yes,709.0,0.0
+6642,66.0,55 and older,Small car,Male,Single,No,No,4530.0,3030.0
+6680,30.0,25-35,Big car,Female,Married,No,Yes,1877.0,377.0
+6690,31.0,25-35,Big car,Male,Single,No,Yes,228.0,0.0
+6697,16.0,18 and below,Big car,Male,Married,Yes,Yes,598.0,0.0
+6791,30.0,25-35,Big car,Female,Married,No,Yes,1760.0,260.0
+6869,50.0,45-55,Small car,Male,Divorced/Separated,No,Yes,1675.0,175.0
+6882,29.0,25-35,Small car,Female,Widowed,No,Yes,2740.0,1240.0
+6936,49.0,45-55,Big car,Female,Married,No,Yes,4264.0,2764.0
+6976,40.0,35-45,Big car,Male,Married,No,,1386.0,0.0
+7005,54.0,45-55,Big car,Female,Married,No,Yes,84.0,0.0
+7035,3.0,18 and below,Small car,Male,Single,Yes,Yes,852.0,0.0
+7107,5.0,18 and below,Small car,Female,Single,No,Yes,57.0,0.0
+7109,16.0,18 and below,Small car,Female,Single,No,Yes,4311.0,2811.0
+7123,39.0,35-45,Small car,Male,Single,No,Yes,2188.0,688.0
+7135,19.0,18-25,Big car,Female,Married,No,Yes,3000.0,1500.0
+7138,,,Small car,Female,Married,No,Yes,10919.0,9419.0
+7142,15.0,18 and below,Small car,Female,Single,No,Yes,1780.0,280.0
+7157,37.0,35-45,Small car,Female,Single,No,Yes,4027.9999999999995,2527.9999999999995
+7160,,,Big car,Male,Married,No,Yes,82000.0,80500.0
+7197,5.0,18 and below,Big car,Female,Single,No,Yes,1528.0,28.0
+7217,47.0,45-55,Small car,Male,Divorced/Separated,No,Yes,10250.0,8750.0
+7218,69.0,55 and older,Small car,Female,Married,No,Yes,2176.0,676.0
+7241,38.0,35-45,Big car,Male,Married,No,Yes,2032.0,532.0
+7263,,,Big car,Male,Married,No,Yes,1122.0,0.0
+7309,29.0,25-35,Small car,Female,Married,No,No,3724.0,2224.0
+7351,,,Big car,Female,Widowed,No,Yes,30.0,0.0
+7382,17.0,18 and below,Big car,Female,Single,No,Yes,7450.0,5950.0
+7386,20.0,18-25,Small car,Male,Single,No,Yes,2627.0,1127.0
+7406,29.0,25-35,Small car,Female,Single,No,Yes,68560.0,67060.0
+7477,16.0,18 and below,Big car,Male,Single,No,Yes,708.0,0.0
+7484,15.0,18 and below,Small car,Female,Single,No,Yes,6080.0,4580.0
+7498,32.0,25-35,Big car,Female,Single,No,Yes,1020.0,0.0
+7586,27.0,25-35,Small car,Female,Single,No,Yes,3340.0,1840.0
+7605,16.0,18 and below,Small car,Male,Single,No,Yes,2470.0,970.0
+7647,21.0,18-25,Small car,Female,Married,No,Yes,3330.0,1830.0
+7667,,,Big car,Female,Single,No,Yes,3199.0,1699.0
+7671,16.0,18 and below,Small car,Female,Single,Yes,Yes,2627.0,1127.0
+7694,11.0,18 and below,Big car,Male,Single,No,Yes,500.0,0.0
+7704,39.0,35-45,Big car,Female,Married,No,Yes,434.0,0.0
+7707,,,Big car,Male,Married,No,Yes,40.0,0.0
+7723,46.0,45-55,Big car,Female,Married,No,Yes,2470.0,970.0
+7748,17.0,18 and below,Small car,Male,Single,No,Yes,400.0,0.0
+7769,,,Big car,Female,Divorced/Separated,Yes,Yes,18.0,0.0
+7776,42.0,35-45,Big car,Male,Single,No,Yes,3321.0,1821.0
+7779,8.0,18 and below,Small car,Female,Single,No,Yes,200.0,0.0
+7792,18.0,18-25,Big car,Female,Married,No,Yes,700.0,0.0
+7855,33.0,25-35,Big car,Male,Single,No,Yes,1886.0,386.0
+7883,15.0,18 and below,Big car,Female,Single,No,Yes,4058.0,2558.0
+7904,57.0,55 and older,Big car,Male,Single,No,Yes,500.0,0.0
+7919,36.0,35-45,Big car,Female,Married,No,Yes,250.0,0.0
+7930,35.0,35-45,Big car,Male,Married,No,Yes,9162.0,7662.0
+7972,42.0,35-45,Big car,Male,Single,No,Yes,1746.0,246.0
+7981,25.0,25-35,Small car,Female,Married,No,Yes,2377.0,877.0
+7996,23.0,18-25,Small car,Female,Single,Yes,Yes,2156.0,656.0
+7999,49.0,45-55,Small car,Male,Married,Yes,Yes,1998.0,498.0
+8115,0.0,18 and below,Big car,Female,Married,No,Yes,2381.0,881.0
+8133,23.0,18-25,Big car,Female,Single,No,Yes,210.0,0.0
+8136,1.0,18 and below,Big car,Male,Single,No,Yes,105.0,0.0
+8152,16.0,18 and below,Big car,Female,Single,No,Yes,140.0,0.0
+8274,,,Big car,Female,Married,No,Yes,150.0,0.0
+8300,36.0,35-45,Small car,Male,Single,No,Yes,2214.0,714.0
+8336,48.0,45-55,Big car,Female,Married,No,Yes,471.0,0.0
+8338,20.0,18-25,Big car,Male,Single,No,Yes,1505.0,5.0
+8354,39.0,35-45,Big car,Female,Married,No,Yes,2223.0,723.0
+8381,16.0,18 and below,Big car,Male,Married,No,Yes,4478.0,2978.0
+8397,,,Small car,Male,Married,,Yes,28161.0,26661.0
+8400,46.0,45-55,Big car,Female,Married,No,Yes,1004.9999999999999,0.0
+8416,0.0,18 and below,Small car,Female,Single,No,Yes,57.0,0.0
+8420,19.0,18-25,Small car,Female,Single,No,Yes,3319.0,1819.0
+8424,38.0,35-45,Big car,Male,Married,No,Yes,2418.0,918.0
+8428,16.0,18 and below,Big car,Female,Single,No,Yes,5149.0,3649.0
+8434,5.0,18 and below,Small car,Male,Single,Yes,Yes,368.0,0.0
+8472,54.0,45-55,Big car,Male,Married,No,Yes,2415.0,915.0
+8509,,,Big car,Female,Married,No,Yes,2009.9999999999998,509.9999999999998
+8529,32.0,25-35,Small car,Male,Single,Yes,Yes,42225.0,40725.0
+8570,18.0,18-25,Small car,Male,Single,No,Yes,5831.0,4331.0
+8582,,,Big car,Male,Single,No,Yes,900.0,0.0
+8647,46.0,45-55,Small car,Male,Married,No,Yes,4259.0,2759.0
+8673,33.0,25-35,Big car,Female,Married,No,Yes,1780.0,280.0
+8686,17.0,18 and below,Big car,Male,Single,No,Yes,702.0,0.0
+8699,22.0,18-25,Big car,Female,Single,No,Yes,4290.0,2790.0
+8716,6.0,18 and below,Small car,Female,Single,No,Yes,240.0,0.0
+8723,42.0,35-45,Big car,Female,Married,No,Yes,4692.0,3192.0
+8748,39.0,35-45,Small car,Male,Married,No,Yes,2043.0000000000002,543.0000000000002
+8771,26.0,25-35,Big car,Female,Single,No,Yes,862.0,0.0
+8822,36.0,35-45,Small car,Male,Married,No,Yes,1730.0,230.0
+8826,29.0,25-35,Small car,Male,Married,Yes,Yes,2430.0,930.0
+8831,62.0,55 and older,Big car,Female,Married,Yes,Yes,830.0,0.0
+8846,56.0,55 and older,Big car,Female,Married,No,Yes,3119.0,1619.0
+8886,24.0,18-25,Small car,Female,Single,No,Yes,2830.0,1330.0
+8938,34.0,25-35,Big car,Female,Married,No,Yes,4349.0,2849.0
+8939,45.0,45-55,Small car,Male,Married,No,Yes,5735.0,4235.0
+8941,53.0,45-55,Small car,Female,Single,No,Yes,7549.0,6049.0
+8999,38.0,35-45,Big car,Male,Married,No,Yes,1299.0,0.0
+9047,20.0,18-25,Big car,Female,Single,,,263.0,0.0
+9082,23.0,18-25,Small car,Female,Married,Yes,Yes,3192.0,1692.0
+9131,36.0,35-45,Small car,Female,Married,Yes,Yes,4405.0,2905.0
+9134,26.0,25-35,Big car,Male,Single,No,Yes,2850.0,1350.0
+9172,32.0,25-35,Small car,Female,Single,No,Yes,9127.0,7627.0
+9186,42.0,35-45,Big car,Female,Married,No,Yes,672.0,0.0
+9197,61.0,55 and older,Small car,Female,Married,No,Yes,3997.0,2497.0
+9203,20.0,18-25,Big car,Male,Single,No,Yes,190.0,0.0
+9223,44.0,35-45,Small car,Female,,No,Yes,3299.0,1799.0
+9224,19.0,18-25,Big car,Male,Single,,Yes,2771.0,1271.0
+9246,46.0,45-55,Small car,Female,Married,No,Yes,273604.0,272104.0
+9252,18.0,18-25,Big car,Female,Single,No,Yes,1415.0,0.0
+9273,38.0,35-45,Big car,Female,Married,No,Yes,3155.0,1655.0
+9304,,,Small car,Male,Married,No,Yes,4140.0,2640.0
+9331,34.0,25-35,Small car,Male,Married,No,Yes,567.0,0.0
+9378,26.0,25-35,Big car,Male,Married,No,Yes,2170.0,670.0
+9407,11.0,18 and below,Big car,Male,Single,No,Yes,1135.0,0.0
+9410,59.0,55 and older,Big car,Male,Married,No,Yes,1000.0,0.0
+9437,30.0,25-35,Small car,Female,Married,No,Yes,3634.0,2134.0
+9443,19.0,18-25,Big car,Female,Single,No,Yes,1471.0,0.0
+9520,,,Small car,Female,Married,No,Yes,3335.0,1835.0
+9524,46.0,45-55,Small car,Female,Divorced/Separated,No,Yes,8802.0,7302.0
+9544,40.0,35-45,Big car,Female,Married,No,Yes,5440.0,3940.0
+9546,54.0,45-55,Small car,Female,Married,No,Yes,2249.0,749.0
+9553,37.0,35-45,Small car,Female,Married,No,Yes,4860.0,3360.0
+9555,67.0,55 and older,Small car,Female,Married,No,Yes,2135.0,635.0
+9582,34.0,25-35,Small car,Male,Married,No,Yes,3850.0,2350.0
+9600,18.0,18-25,Small car,Female,Single,No,Yes,1989.0,489.0
+9603,59.0,55 and older,Big car,Female,Single,No,Yes,3595.0,2095.0
+9604,35.0,35-45,Small car,Female,Single,No,Yes,8518.0,7018.0
+9608,42.0,35-45,Small car,Female,Single,No,Yes,12316.0,10816.0
+9615,16.0,18 and below,Small car,Male,Single,No,Yes,10915.0,9415.0
+9647,,,Big car,Male,Single,Yes,Yes,372.0,0.0
+9653,35.0,35-45,Small car,Female,Married,No,Yes,860.0,0.0
+9661,55.0,55 and older,Big car,Female,Married,No,Yes,604.0,0.0
+9704,,,Small car,Male,Married,No,Yes,3595.0,2095.0
+9714,26.0,25-35,Small car,Female,Single,No,Yes,4665.0,3165.0
+9758,36.0,35-45,Big car,Female,Married,No,Yes,2352.0,852.0
+9792,18.0,18-25,Big car,Male,Single,No,Yes,183.0,0.0
+9793,16.0,18 and below,Big car,Female,Single,No,Yes,1495.0,0.0
+9806,13.0,18 and below,Small car,Female,Single,No,Yes,135.0,0.0
+9811,15.0,18 and below,Small car,Female,Single,,,5263.0,3763.0
+9827,,,Big car,Female,Married,No,Yes,1756.0,256.0
+9879,54.0,45-55,Big car,Female,Married,No,Yes,2677.0,1177.0
+9920,40.0,35-45,Big car,Male,,,Yes,2408.0,908.0
+10038,,,Big car,Female,Married,No,Yes,156.0,0.0
+10106,,,Small car,Male,Single,No,Yes,140.0,0.0
+10115,43.0,35-45,Small car,Female,Married,No,Yes,6209.0,4709.0
+10117,23.0,18-25,Big car,Female,Single,,,1647.0,147.0
+10129,83.0,55 and older,Small car,Male,Married,No,Yes,28209.0,26709.0
+10206,21.0,18-25,Small car,Male,Single,No,Yes,150000.0,148500.0
+10226,,,Big car,Male,Single,Yes,Yes,684.0,0.0
+10256,23.0,18-25,Small car,Male,Single,No,Yes,4776.0,3276.0
+10288,35.0,35-45,Small car,Female,Married,No,Yes,5405.0,3905.0
+10298,10.0,18 and below,Big car,Female,Single,No,,584.0,0.0
+10308,25.0,25-35,Small car,Female,Single,No,Yes,2998.0,1498.0
+10329,,,Small car,Female,Single,No,Yes,2995.0,1495.0
+10479,45.0,45-55,Small car,Female,Divorced/Separated,No,Yes,49025.0,47525.0
+10545,40.0,35-45,Big car,Female,Single,No,Yes,1834.0,334.0
+10564,15.0,18 and below,Small car,Male,Single,Yes,Yes,2610.0,1110.0
+10565,49.0,45-55,Big car,Male,Married,No,Yes,2681.0,1181.0
+10575,24.0,18-25,Small car,Male,Married,No,Yes,4926.0,3426.0
+10591,48.0,45-55,Small car,Male,Married,No,Yes,68548.0,67048.0
+10593,43.0,35-45,Big car,Male,Single,No,Yes,745.0,0.0
+10606,61.0,55 and older,Small car,Male,Married,No,Yes,5087.0,3587.0
+10758,19.0,18-25,Big car,Female,Single,No,Yes,285.0,0.0
+10862,51.0,45-55,Small car,Male,Married,Yes,Yes,3729.0,2229.0
+10870,21.0,18-25,Big car,Female,Single,No,Yes,2970.0,1470.0
+10876,40.0,35-45,Big car,Male,Single,No,Yes,505.0,0.0
+10884,16.0,18 and below,Small car,Male,Single,No,Yes,1396.0,0.0
+10895,22.0,18-25,Big car,Female,Single,No,Yes,487.0,0.0
+10945,25.0,25-35,Big car,Male,Married,Yes,Yes,540.0,0.0
+10960,22.0,18-25,Small car,Female,Single,No,Yes,2231.0,731.0
+10993,20.0,18-25,Big car,Female,Single,No,Yes,1385.0,0.0
+10997,,,Small car,Female,Single,,,2700.0,1200.0
+11016,4.0,18 and below,Small car,Female,Single,No,,57.0,0.0
+11030,26.0,25-35,Small car,Female,Married,No,Yes,1089.0,0.0
+11064,25.0,25-35,Small car,Male,Single,Yes,Yes,984.0,0.0
+11094,,,Small car,Female,Single,No,Yes,416.0,0.0
+11117,22.0,18-25,Small car,Female,Married,No,Yes,6184.0,4684.0
+11134,59.0,55 and older,Small car,Female,Married,No,Yes,54722.0,53222.0
+11195,,,Big car,Female,Single,No,Yes,3584.0,2084.0
+11199,36.0,35-45,Small car,Male,Single,No,Yes,4145.0,2645.0
+11258,16.0,18 and below,Small car,Female,Single,No,Yes,3471.0,1971.0
+11269,41.0,35-45,Big car,Female,Married,No,Yes,4000.0,2500.0
+11272,16.0,18 and below,Small car,Female,Single,No,Yes,3883.0,2383.0
+11289,57.0,55 and older,Big car,Male,Single,No,Yes,3889.0,2389.0
+11296,,,Big car,Male,Married,No,Yes,200.0,0.0
+11301,,,Small car,Male,Married,No,Yes,2631.0,1131.0
+11308,41.0,35-45,Small car,Female,Married,No,Yes,1857.0,357.0
+11330,17.0,18 and below,Big car,Female,Single,No,Yes,557.0,0.0
+11332,20.0,18-25,Small car,Female,Single,No,Yes,3064.0,1564.0
+11363,,,Small car,Female,Married,No,Yes,13500.0,12000.0
+11364,15.0,18 and below,Big car,Female,Single,No,No,1555.0,55.0
+11450,33.0,25-35,Big car,Female,Married,No,Yes,3189.0,1689.0
+11453,64.0,55 and older,Small car,Male,Married,No,Yes,3457.0,1957.0
+11456,29.0,25-35,Small car,Female,Married,No,Yes,3950.0,2450.0
+11461,37.0,35-45,Big car,Female,Married,Yes,Yes,2868.0,1368.0
+11579,17.0,18 and below,Big car,Female,Single,Yes,Yes,600.0,0.0
+11590,5.0,18 and below,Small car,Female,Single,No,,488.0,0.0
+11627,5.0,18 and below,Small car,Female,Single,No,Yes,1995.0,495.0
+11656,11.0,18 and below,Small car,Female,Single,,,1219.0,0.0
+11696,35.0,35-45,Big car,Male,Married,,Yes,500.0,0.0
+11701,43.0,35-45,Small car,Female,Single,Yes,Yes,7168.0,5668.0
+11713,48.0,45-55,Big car,Female,Single,No,Yes,1226.0,0.0
+11733,,,Small car,Female,Single,No,Yes,193000.0,191500.0
+11763,66.0,55 and older,Big car,Female,Married,,,1985.0,485.0
+11768,20.0,18-25,Big car,Female,Married,No,Yes,2169.0,669.0
+11873,0.0,18 and below,Big car,Female,Married,No,Yes,81.0,0.0
+11883,34.0,25-35,Big car,Male,Married,No,Yes,2361.0,861.0
+11890,24.0,18-25,Big car,Male,Married,No,Yes,2086.0,586.0
+11907,31.0,25-35,Big car,Male,Single,No,Yes,510.0,0.0
+11912,,,Small car,,Single,,,2169.0,669.0
+11914,50.0,45-55,Big car,Female,Married,No,Yes,145.0,0.0
+11915,38.0,35-45,Big car,Male,Married,No,,405.0,0.0
+11917,12.0,18 and below,Small car,Female,Single,No,Yes,3417.0,1917.0
+11933,16.0,18 and below,Big car,Male,Single,No,Yes,548.0,0.0
+11936,15.0,18 and below,Small car,Male,Single,Yes,Yes,2830.0,1330.0
+12003,,,Big car,Male,Married,No,Yes,470.0,0.0
+12091,51.0,45-55,Small car,Female,Married,No,Yes,4115.0,2615.0
+12121,16.0,18 and below,Small car,Male,Single,No,Yes,5515.0,4015.0
+12131,30.0,25-35,Small car,Male,Married,Yes,Yes,8070.0,6570.0
+12132,24.0,18-25,Small car,Female,Single,No,Yes,1180.0,0.0
+12158,39.0,35-45,Small car,Male,Married,No,No,162047.0,160547.0
+12185,48.0,45-55,Small car,Female,Married,No,Yes,2150.0,650.0
+12221,20.0,18-25,Small car,Male,Single,No,No,2328.0,828.0
+12239,23.0,18-25,Small car,Female,Single,No,Yes,1260.0,0.0
+12250,47.0,45-55,Big car,Male,Married,No,Yes,90.0,0.0
+12286,70.0,55 and older,Small car,Female,Widowed,No,Yes,1566.0,66.0
+12318,35.0,35-45,Big car,Female,Married,No,Yes,975.0,0.0
+12404,,,Big car,Male,Married,,,1370.0,0.0
+12454,,,Big car,Female,Married,No,Yes,1783.0,283.0
+12474,70.0,55 and older,Small car,Female,Married,No,Yes,2698.0,1198.0
+12478,39.0,35-45,Big car,Female,,No,Yes,841.0,0.0
+12495,43.0,35-45,Big car,Male,Married,No,Yes,3049.0,1549.0
+12510,,,Small car,Male,Single,Yes,Yes,10182.0,8682.0
+12544,35.0,35-45,Small car,Female,Single,No,Yes,3603.0,2103.0
+12545,,,Big car,Male,Single,No,Yes,400.0,0.0
+12581,24.0,18-25,Small car,,Single,No,Yes,5510.0,4010.0
+12598,47.0,45-55,Big car,Female,Single,No,Yes,619.0,0.0
+12670,25.0,25-35,Small car,Female,Single,No,Yes,3185.0,1685.0
+12701,18.0,18-25,Big car,Male,Married,Yes,Yes,166.0,0.0
+12767,,,Big car,Female,Married,No,Yes,85.0,0.0
+12785,19.0,18-25,Small car,Female,Single,No,Yes,2645.0,1145.0
+12821,17.0,18 and below,Big car,Female,Single,No,Yes,405.0,0.0
+12843,13.0,18 and below,Big car,Female,Single,No,Yes,210.0,0.0
+12847,35.0,35-45,Small car,Female,Married,No,Yes,16426.0,14926.0
+12902,55.0,55 and older,Small car,Male,Married,No,Yes,6850.0,5350.0
+12920,45.0,45-55,Big car,Male,Single,No,Yes,3955.0,2455.0
+12935,40.0,35-45,Small car,Male,Single,No,Yes,7701.0,6201.0
+12944,12.0,18 and below,Big car,Male,Single,No,Yes,300.0,0.0
+12980,49.0,45-55,Big car,Male,Married,No,No,2633.0,1133.0
+12985,,,Big car,Male,Single,No,Yes,3854.0,2354.0
+12993,50.0,45-55,Small car,Male,Married,No,Yes,3054.0,1554.0
+13013,47.0,45-55,Big car,Male,Single,No,Yes,250.0,0.0
+13034,18.0,18-25,Small car,Male,Single,No,Yes,2918.0,1418.0
+13071,,,Small car,Female,Married,No,No,2629.0,1129.0
+13090,29.0,25-35,Big car,Male,Married,No,Yes,957.0,0.0
+13143,18.0,18-25,Small car,Female,Married,No,Yes,3186.0,1686.0
+13160,5.0,18 and below,Small car,Male,Single,No,Yes,453.0,0.0
+13196,64.0,55 and older,Big car,Female,Married,No,Yes,1062.0,0.0
+13233,29.0,25-35,Big car,Male,Married,No,Yes,615.0,0.0
+13236,6.0,18 and below,Small car,Male,Single,Yes,Yes,195.0,0.0
+13249,64.0,55 and older,Big car,Female,Married,No,Yes,232.0,0.0
+13304,37.0,35-45,Big car,Male,Married,No,Yes,3719.0,2219.0
+13309,15.0,18 and below,Small car,Female,Single,Yes,Yes,3060.0,1560.0
+13334,0.0,18 and below,Big car,Female,Single,No,Yes,252.0,0.0
+13412,63.0,55 and older,Small car,Female,Married,No,Yes,1341.0,0.0
+13491,13.0,18 and below,Big car,Female,Single,No,Yes,726.0,0.0
+13571,,,Small car,,Single,No,Yes,17857.0,16357.0
+13608,17.0,18 and below,Small car,Female,Single,,,7717.0,6217.0
+13700,5.0,18 and below,Small car,Male,Single,No,Yes,65.0,0.0
+13718,23.0,18-25,Big car,Male,Single,No,Yes,1185.0,0.0
+13734,57.0,55 and older,Small car,Male,Married,No,Yes,6063.0,4563.0
+13748,,,Small car,Male,Single,,Yes,1014.9999999999999,0.0
+13753,52.0,45-55,Small car,Female,Single,No,Yes,4366.0,2866.0
+13818,30.0,25-35,Small car,Male,Single,No,Yes,2548.0,1048.0
+13841,,,Big car,Male,Married,No,Yes,432.0,0.0
+13906,51.0,45-55,Big car,Female,Married,No,Yes,435.0,0.0
+13930,2.0,18 and below,Small car,Male,Single,No,Yes,195.0,0.0
+13957,31.0,25-35,Big car,Female,Married,No,No,2069.0,569.0
+13978,47.0,45-55,Big car,Female,Married,No,Yes,77.0,0.0
+13991,3.0,18 and below,Small car,Female,Single,No,Yes,843.0,0.0
+14050,22.0,18-25,Big car,Female,Single,No,Yes,5525.0,4025.0
+14084,17.0,18 and below,Small car,Male,Single,No,Yes,2305.0,805.0
+14101,,,Big car,Female,Single,No,Yes,3520.0,2020.0
+14105,19.0,18-25,Big car,Male,Single,No,Yes,8180.999999999999,6680.999999999999
+14130,32.0,25-35,Small car,Male,Single,No,Yes,3135.0,1635.0
+14141,15.0,18 and below,Small car,Male,Single,Yes,Yes,1656.0,156.0
+14144,56.0,55 and older,Small car,Male,,No,Yes,3120.0,1620.0
+14147,44.0,35-45,Small car,Male,Divorced/Separated,No,Yes,3666.0,2166.0
+14167,34.0,25-35,Big car,Male,Married,No,Yes,3394.0,1894.0
+14174,49.0,45-55,Small car,Female,Single,No,Yes,3760.0,2260.0
+14186,,,Big car,Female,Married,No,Yes,3090.0,1590.0
+14211,1.0,18 and below,Small car,Female,Single,,,920.0,0.0
+14262,43.0,35-45,Small car,Male,Married,Yes,Yes,5183.0,3683.0
+14263,64.0,55 and older,Big car,Female,Married,No,Yes,1948.0,448.0
+14272,,,Small car,Male,Married,No,Yes,7438.0,5938.0
+14279,26.0,25-35,Small car,Male,Married,Yes,Yes,1831.0,331.0
+14315,29.0,25-35,Small car,Male,Married,No,Yes,4782.0,3282.0
+14329,3.0,18 and below,Small car,Female,Single,Yes,Yes,579.0,0.0
+14351,,,Big car,Female,Single,,,510.0,0.0
+14357,34.0,25-35,Big car,Female,Married,No,Yes,8411.0,6911.0
+14366,58.0,55 and older,Big car,Male,Married,No,Yes,1895.0,395.0
+14375,31.0,25-35,Big car,Male,Married,No,Yes,1565.0,65.0
+14404,57.0,55 and older,Small car,Male,Married,No,Yes,4996.0,3496.0
+14458,,,Big car,Female,Divorced/Separated,No,Yes,215.0,0.0
+14489,24.0,18-25,Small car,Female,Married,Yes,Yes,13814.0,12314.0
+14517,22.0,18-25,Small car,Female,Married,No,Yes,3754.0,2254.0
+14565,,,Big car,Female,Single,No,Yes,160.0,0.0
+14610,14.0,18 and below,Big car,Female,Single,No,Yes,2883.0,1383.0
+14614,37.0,35-45,Big car,Female,Divorced/Separated,No,Yes,500.0,0.0
+14633,29.0,25-35,Small car,Male,Married,Yes,Yes,3140.0,1640.0
+14679,39.0,35-45,Big car,Female,Married,No,Yes,100.0,0.0
+14697,40.0,35-45,Big car,Female,Married,Yes,Yes,8416.0,6916.0
+14740,54.0,45-55,Small car,Male,Single,No,Yes,2077.0,577.0
+14767,15.0,18 and below,Small car,Male,Single,No,Yes,2737.0,1237.0
+14799,26.0,25-35,Small car,Male,Single,No,Yes,1192.0,0.0
+14806,44.0,35-45,Big car,Female,Married,No,Yes,3323.0,1823.0
+14831,13.0,18 and below,Small car,Male,Single,No,Yes,1610.0,110.0
+14845,19.0,18-25,Big car,Male,Single,No,Yes,2692.0,1192.0
+14859,49.0,45-55,Small car,Female,Married,No,Yes,6372.0,4872.0
+14863,71.0,55 and older,Small car,Male,Married,No,Yes,3706.0,2206.0
+14893,20.0,18-25,Big car,Male,Single,No,Yes,315.0,0.0
+14908,25.0,25-35,Small car,Female,Single,No,Yes,4554.0,3054.0
+14967,17.0,18 and below,Big car,Male,Single,No,Yes,1778.0,278.0
+14975,,,Small car,Male,Married,No,Yes,66689.0,65189.0
+14992,18.0,18-25,Small car,Female,Single,No,Yes,6047.0,4547.0
+14995,30.0,25-35,Big car,Male,Single,No,Yes,384.0,0.0
+14998,20.0,18-25,Big car,Female,Single,No,Yes,1217.0,0.0
+15022,,,Big car,Female,Single,Yes,Yes,3362.0,1862.0
+15072,63.0,55 and older,Big car,Female,Married,No,Yes,1284.0,0.0
+15143,36.0,35-45,Small car,Male,Married,Yes,Yes,3275.0,1775.0
+15161,27.0,25-35,Small car,Female,Single,No,Yes,42434.0,40934.0
+15182,70.0,55 and older,Small car,Female,Married,No,Yes,3781.0,2281.0
+15195,,,Small car,Female,Married,No,Yes,1536.0,36.0
+15218,30.0,25-35,Big car,Female,Married,No,Yes,831.0,0.0
+15369,16.0,18 and below,Big car,Female,Single,No,Yes,200.0,0.0
+15414,22.0,18-25,Big car,Female,Married,No,Yes,546.0,0.0
+15425,38.0,35-45,Small car,Female,Married,No,Yes,4977.0,3477.0
+15429,18.0,18-25,Big car,Male,Single,No,Yes,2991.0,1491.0
+15432,43.0,35-45,Big car,Female,Married,No,Yes,1117.0,0.0
+15436,32.0,25-35,Small car,Male,Married,No,Yes,5550.0,4050.0
+15457,70.0,55 and older,Big car,Female,Married,No,Yes,1218.0,0.0
+15511,60.0,55 and older,Big car,Male,Married,No,Yes,73.0,0.0
+15528,19.0,18-25,Big car,Female,Single,No,Yes,550.0,0.0
+15529,37.0,35-45,Small car,Female,Married,No,Yes,63362.0,61862.0
+15548,51.0,45-55,Small car,Male,Married,No,Yes,1935.0,435.0
+15551,29.0,25-35,Big car,Female,Married,No,,125.0,0.0
+15557,23.0,18-25,Big car,Female,Married,No,Yes,250.0,0.0
+15589,18.0,18-25,Small car,Female,Single,No,Yes,3005.0,1505.0
+15599,22.0,18-25,Small car,Female,Married,No,Yes,3611.0,2111.0
+15670,,,Big car,Female,Single,No,Yes,224.0,0.0
+15680,51.0,45-55,Small car,Male,Married,No,,3042.0,1542.0
+15704,4.0,18 and below,Small car,Female,Single,No,Yes,1655.0,155.0
+15791,11.0,18 and below,Big car,Male,Single,No,Yes,250.0,0.0
+15848,19.0,18-25,Small car,Female,Single,No,Yes,5500.0,4000.0
+15931,33.0,25-35,Big car,Male,Single,No,Yes,596.0,0.0
+15932,,,Small car,Male,Single,No,Yes,299.0,0.0
+15954,30.0,25-35,Big car,Male,Married,No,Yes,1130.0,0.0
+15990,26.0,25-35,Small car,Male,Single,No,Yes,4940.0,3440.0
+16026,,,Big car,Female,Single,No,Yes,2640.0,1140.0
+16100,0.0,18 and below,Big car,Female,Single,No,Yes,407.0,0.0
+16126,39.0,35-45,Small car,Female,Single,No,Yes,3470.0,1970.0
+16137,36.0,35-45,Small car,Female,Married,No,Yes,25766.0,24266.0
+16220,83.0,55 and older,Big car,Male,Widowed,No,Yes,380.0,0.0
+16275,17.0,18 and below,Small car,Male,Single,Yes,Yes,2825.0,1325.0
+16295,42.0,35-45,Big car,Female,Married,No,Yes,3043.0,1543.0
+16327,38.0,35-45,Big car,Male,Single,No,Yes,3787.0,2287.0
+16330,12.0,18 and below,Small car,Male,Single,No,Yes,1891.0,391.0
+16353,67.0,55 and older,Small car,Female,Married,No,Yes,4219.0,2719.0
+16379,20.0,18-25,Big car,Male,Single,,Yes,558.0,0.0
+16408,72.0,55 and older,Small car,Female,Widowed,No,Yes,18708.0,17208.0
+16409,73.0,55 and older,Small car,Male,Married,No,Yes,8218.0,6718.0
+16445,41.0,35-45,Small car,Female,Married,No,Yes,6337.0,4837.0
+16453,48.0,45-55,Big car,Female,Married,No,Yes,1058.0,0.0
+16462,17.0,18 and below,Small car,Male,Single,No,Yes,1330.0,0.0
+16495,,,Small car,Female,Single,Yes,Yes,3635.0,2135.0
+16532,50.0,45-55,Small car,Male,Married,Yes,Yes,1120.0,0.0
+16543,12.0,18 and below,Small car,Female,Single,No,Yes,3404.0,1904.0
+16556,37.0,35-45,Small car,Female,Married,No,Yes,2852.0,1352.0
+16568,21.0,18-25,Small car,Female,Single,No,No,18053.0,16553.0
+16585,95.0,55 and older,Small car,Male,Married,No,Yes,1080.0,0.0
+16605,0.0,18 and below,Big car,Female,Single,No,Yes,275.0,0.0
+16665,44.0,35-45,Small car,Male,Married,No,Yes,3910.0,2410.0
+16697,32.0,25-35,Small car,Male,Single,No,Yes,10255.0,8755.0
+16703,20.0,18-25,Small car,Male,Single,No,Yes,1235.0,0.0
+16709,44.0,35-45,Small car,Male,Married,No,Yes,2645.0,1145.0
+16721,45.0,45-55,Small car,Male,Married,No,Yes,3901.0,2401.0
+16727,30.0,25-35,Small car,Male,Single,No,Yes,6818.0,5318.0
+16755,20.0,18-25,Big car,Female,Single,No,Yes,1042.0,0.0
+16794,,,Small car,Male,Married,No,Yes,2905.0,1405.0
+16795,27.0,25-35,Small car,Male,Single,No,Yes,5228.0,3728.0
+16842,21.0,18-25,Big car,Female,Single,Yes,Yes,2640.0,1140.0
+16843,70.0,55 and older,Big car,Female,Married,No,Yes,60.0,0.0
+16917,17.0,18 and below,Small car,Male,Single,No,Yes,3436.0,1936.0
+16924,20.0,18-25,Small car,Female,Single,No,No,1936.0,436.0
+16958,12.0,18 and below,Small car,Male,Single,No,Yes,1035.0,0.0
+17020,33.0,25-35,Big car,Male,Married,No,Yes,1393.0,0.0
+17022,0.0,18 and below,Small car,Female,Single,No,Yes,226.0,0.0
+17098,34.0,25-35,Small car,Male,Divorced/Separated,No,Yes,6570.0,5070.0
+17133,43.0,35-45,Small car,Male,Married,No,Yes,415.0,0.0
+17144,,,Small car,Female,Single,No,Yes,1935.0,435.0
+17157,35.0,35-45,Small car,Male,Married,No,Yes,3361.0,1861.0
+17159,43.0,35-45,Big car,Female,Married,No,Yes,3498.0,1998.0
+17163,24.0,18-25,Small car,Male,Single,No,Yes,4479.0,2979.0
+17185,21.0,18-25,Small car,Female,Single,No,Yes,2406.0,906.0
+17187,,,Small car,Female,Single,,,300.0,0.0
+17222,42.0,35-45,Big car,Female,Married,No,Yes,19260.0,17760.0
+17275,10.0,18 and below,Big car,Female,Single,No,Yes,5.0,0.0
+17286,47.0,45-55,Big car,Female,Married,No,Yes,500.0,0.0
+17363,32.0,25-35,Small car,Male,Married,Yes,Yes,1738.0,238.0
+17373,39.0,35-45,Small car,Male,Married,No,Yes,14308.0,12808.0
+17397,,,Big car,Male,Single,No,Yes,75.0,0.0
+17403,,,Big car,Male,Married,No,Yes,233.0,0.0
+17416,39.0,35-45,Small car,Female,Married,No,Yes,3186.0,1686.0
+17417,60.0,55 and older,Big car,Female,Married,No,Yes,64.0,0.0
+17488,49.0,45-55,Small car,Male,Married,,Yes,1710.0,210.0
+17539,55.0,55 and older,Big car,Female,Married,No,Yes,1030.0,0.0
+17550,33.0,25-35,Big car,Female,Single,Yes,Yes,1000.0,0.0
+17635,42.0,35-45,Small car,Female,Married,No,Yes,7123.0,5623.0
+17707,33.0,25-35,Small car,Female,Divorced/Separated,No,Yes,15467.0,13967.0
+17709,39.0,35-45,Big car,Female,Single,No,Yes,832.0,0.0
+17726,,,Small car,Male,Married,No,Yes,3916.0,2416.0
+17729,43.0,35-45,Small car,Male,Married,No,Yes,4420.0,2920.0
+17732,48.0,45-55,Big car,Male,Married,Yes,Yes,855.0,0.0
+17737,48.0,45-55,Small car,Female,Married,No,Yes,5449.0,3949.0
+17791,29.0,25-35,Big car,Female,Single,No,Yes,553.0,0.0
+17832,19.0,18-25,Small car,Female,Single,No,Yes,2803.0,1303.0
+17840,34.0,25-35,Small car,Female,Married,,,1945.0,445.0
+17841,26.0,25-35,Big car,Male,Married,No,Yes,275.0,0.0
+17885,29.0,25-35,Big car,Female,Married,Yes,Yes,5410.0,3910.0
+17933,,,Big car,Male,Married,,,1104.0,0.0
+17985,81.0,55 and older,Big car,Female,Married,No,Yes,2623.0,1123.0
+17994,43.0,35-45,Big car,Female,Single,No,Yes,320.0,0.0
+18017,23.0,18-25,Small car,Male,Single,No,Yes,2925.0,1425.0
+18063,22.0,18-25,Small car,Female,Single,Yes,Yes,7407.0,5907.0
+18065,15.0,18 and below,Big car,Male,Single,No,Yes,325.0,0.0
+18071,25.0,25-35,Big car,Female,Married,No,Yes,6795.0,5295.0
+18089,50.0,45-55,Big car,Female,Married,No,Yes,1946.0,446.0
+18142,,,Small car,Female,Single,No,Yes,305.0,0.0
+18145,29.0,25-35,Small car,Male,Married,No,Yes,1348.0,0.0
+18157,40.0,35-45,Small car,Male,Single,No,Yes,6479.0,4979.0
+18175,22.0,18-25,Big car,Female,Married,No,Yes,3780.0,2280.0
+18177,,,Big car,Male,Single,No,Yes,400.0,0.0
+18204,60.0,55 and older,Big car,Male,Single,No,Yes,210.0,0.0
+18215,43.0,35-45,Small car,Female,Single,No,Yes,18491.0,16991.0
+18233,42.0,35-45,Small car,Female,Divorced/Separated,No,Yes,1802.0,302.0
+18255,49.0,45-55,Small car,Male,Divorced/Separated,No,Yes,1330.0,0.0
+18271,40.0,35-45,Small car,Female,Married,No,Yes,3570.0,2070.0
+18298,10.0,18 and below,Big car,Female,Single,No,Yes,150.0,0.0
+18318,21.0,18-25,Small car,Female,Single,No,Yes,17179.0,15679.0
+18334,5.0,18 and below,Big car,Male,Single,No,Yes,250.0,0.0
+18353,,,Big car,Female,Married,No,Yes,2120.0,620.0
+18361,45.0,45-55,Big car,Female,Married,No,Yes,900.0,0.0
+18384,37.0,35-45,Small car,Female,Married,No,Yes,2805.0,1305.0
+18387,57.0,55 and older,Big car,Male,Married,No,Yes,2029.0,529.0
+18396,25.0,25-35,Small car,Male,Married,No,Yes,6229.0,4729.0
+18400,40.0,35-45,Big car,Female,Married,No,Yes,5967.0,4467.0
+18483,9.0,18 and below,Small car,Female,Single,No,Yes,1717.0,217.0
+18501,,,Small car,Male,Single,No,Yes,4395.0,2895.0
+18523,58.0,55 and older,Big car,Female,Married,No,Yes,354.0,0.0
+18553,23.0,18-25,Big car,Male,Single,No,Yes,6979.0,5479.0
+18563,30.0,25-35,Small car,Female,Single,No,Yes,2205.0,705.0
+18576,28.0,25-35,Small car,Male,Married,No,Yes,3165.0,1665.0
+18619,55.0,55 and older,Small car,Female,Married,No,Yes,29934.0,28434.0
+18644,33.0,25-35,Big car,Female,Married,No,Yes,1782.0,282.0
+18647,27.0,25-35,Small car,Female,Married,No,Yes,3737.0,2237.0
+18671,34.0,25-35,Small car,Male,Married,No,Yes,8716.0,7216.0
+18674,,,Small car,Male,Single,No,Yes,3545.0,2045.0
+18683,27.0,25-35,Small car,Male,Single,No,Yes,3055.0,1555.0
+18698,17.0,18 and below,Small car,Female,Single,No,Yes,250.0,0.0
+18765,44.0,35-45,Big car,Male,Married,No,Yes,763.0,0.0
+18773,36.0,35-45,Big car,Male,Married,No,Yes,53.0,0.0
+18774,21.0,18-25,Big car,Male,Single,No,Yes,3974.0,2474.0
+18783,19.0,18-25,Small car,Male,Single,No,Yes,3200.0,1700.0
+18819,22.0,18-25,Big car,Male,Single,No,Yes,500.0,0.0
+18822,10.0,18 and below,Big car,Male,Single,No,Yes,150.0,0.0
+18824,31.0,25-35,Small car,Male,Married,No,Yes,4024.0,2524.0
+18847,,,Big car,Male,Single,No,Yes,5021.0,3521.0
+18913,22.0,18-25,Big car,Male,Single,Yes,Yes,300.0,0.0
+18950,27.0,25-35,Big car,Female,Married,No,Yes,1069.0,0.0
+18961,10.0,18 and below,Small car,Male,Single,No,Yes,124.0,0.0
+18983,23.0,18-25,Small car,Male,Single,No,Yes,7936.0,6436.0
+18985,88.0,55 and older,Big car,Female,Widowed,No,Yes,1703.0,203.0
+19042,78.0,55 and older,Small car,Male,Single,Yes,Yes,4225.0,2725.0
+19090,16.0,18 and below,Small car,Male,Single,No,Yes,4176.0,2676.0
+19204,70.0,55 and older,Small car,Female,Married,No,Yes,1135.0,0.0
+19212,30.0,25-35,Small car,Female,Married,No,Yes,5120.0,3620.0
+19228,18.0,18-25,Big car,Female,Married,No,Yes,412.0,0.0
+19232,40.0,35-45,Small car,Female,Married,No,Yes,6674.0,5174.0
+19260,41.0,35-45,Small car,Female,Married,No,Yes,5192.0,3692.0
+19263,18.0,18-25,Big car,Male,Single,No,Yes,9004.0,7504.0
+19264,69.0,55 and older,Big car,Male,Married,No,Yes,480.0,0.0
+19293,,,Big car,Female,Married,No,Yes,848.0,0.0
+19330,38.0,35-45,Small car,Male,Married,No,Yes,3004.0,1504.0
+19414,36.0,35-45,Big car,Male,Single,No,Yes,1018.9999999999999,0.0
+19422,14.0,18 and below,Small car,Female,Single,No,Yes,1292.0,0.0
+19423,,,Small car,Female,,No,Yes,2110.0,610.0
+19425,39.0,35-45,Big car,Female,Married,No,Yes,4195.0,2695.0
+19431,25.0,25-35,Big car,Male,Single,No,Yes,260.0,0.0
+19477,,,Big car,Female,Married,No,Yes,9436.0,7936.0
+19480,81.0,55 and older,Big car,Male,Married,No,Yes,1713.0,213.0
+19578,53.0,45-55,Small car,Female,Married,No,Yes,3140.0,1640.0
+19614,39.0,35-45,Small car,Male,Married,No,Yes,3742.0,2242.0
+19619,40.0,35-45,Small car,Male,Married,No,Yes,2173.0,673.0
+19627,30.0,25-35,Small car,Male,Married,Yes,Yes,9919.0,8419.0
+19630,38.0,35-45,Small car,Female,Married,No,Yes,3155.0,1655.0
+19686,0.0,18 and below,Small car,Male,Single,No,Yes,1400.0,0.0
+19692,45.0,45-55,Small car,Male,Married,Yes,Yes,3305.0,1805.0
+19795,61.0,55 and older,Big car,Male,Married,No,Yes,100.0,0.0
+19796,19.0,18-25,Small car,Female,Single,No,Yes,4624.0,3124.0
+19826,31.0,25-35,Small car,Male,Married,No,No,10077.0,8577.0
+19852,10.0,18 and below,Big car,Male,Single,No,Yes,165.0,0.0
+19875,28.0,25-35,Small car,Female,Married,Yes,Yes,2827.0,1327.0
+19877,,,Big car,Female,Single,No,Yes,225.0,0.0
+19882,41.0,35-45,Big car,Female,Married,No,Yes,969.0,0.0
+19885,,,Big car,Male,Single,No,Yes,624.0,0.0
+19895,43.0,35-45,Big car,Female,Married,No,Yes,266.0,0.0
+19901,,,Big car,Male,Single,Yes,Yes,238.0,0.0
+19913,,,Small car,Male,Single,No,Yes,4395.0,2895.0
+19933,16.0,18 and below,Big car,Female,Single,No,Yes,209.0,0.0
+19964,29.0,25-35,Big car,Female,Single,No,Yes,3777.0,2277.0
+19993,,,Small car,Male,,No,,2364.0,864.0
+19998,16.0,18 and below,Big car,Female,Single,No,Yes,146.0,0.0
+19999,38.0,35-45,Big car,Female,Divorced/Separated,No,Yes,255.0,0.0
+20000,,,Big car,Female,Single,No,Yes,100.0,0.0
+20001,40.0,35-45,Small car,Female,Single,No,Yes,3993.0,2493.0
+20050,3.0,18 and below,Big car,Male,Single,No,Yes,1184.0,0.0
+20071,9.0,18 and below,Small car,Female,Single,No,Yes,1681.0,181.0
+20135,,,Big car,Female,Married,No,Yes,1894.0,394.0
+20141,,,Big car,Female,Married,No,Yes,3975.0,2475.0
+20148,25.0,25-35,Small car,Male,Married,No,Yes,2035.0000000000002,535.0000000000002
+20167,29.0,25-35,Big car,Female,Single,No,Yes,3858.0,2358.0
+20191,51.0,45-55,Small car,Male,Married,No,Yes,52246.0,50746.0
+20210,,,Big car,Male,Married,No,Yes,250.0,0.0
+20264,,,Big car,Male,Single,No,Yes,2053.0,553.0
+20278,37.0,35-45,Small car,Male,Married,No,Yes,8770.0,7270.0
+20301,,,Small car,Male,Single,Yes,Yes,74776.0,73276.0
+20471,20.0,18-25,Big car,Female,Married,No,Yes,510.0,0.0
+20487,6.0,18 and below,Small car,Male,Single,No,Yes,1530.0,30.0
+20623,33.0,25-35,Big car,Female,Married,No,Yes,3365.0,1865.0
+20677,49.0,45-55,Big car,Male,Single,Yes,Yes,3763.0,2263.0
+20687,19.0,18-25,Small car,Female,Single,No,Yes,3386.0,1886.0
+20694,69.0,55 and older,Big car,Female,Widowed,No,Yes,7620.0,6120.0
+20695,18.0,18-25,Big car,Female,Single,No,Yes,2354.0,854.0
+20717,27.0,25-35,Small car,Female,Single,No,Yes,11101.0,9601.0
+20718,42.0,35-45,Big car,Male,Married,Yes,Yes,457.0,0.0
+20755,18.0,18-25,Big car,Female,Married,No,Yes,218.0,0.0
+20790,22.0,18-25,Small car,Female,Single,No,Yes,3723.0,2223.0
+20850,15.0,18 and below,Small car,Male,Single,Yes,Yes,1971.0,471.0
+20864,47.0,45-55,Small car,Female,Married,No,Yes,5114.0,3614.0
+20894,,,Big car,Female,Single,No,,105.0,0.0
+20900,50.0,45-55,Small car,Female,Married,No,Yes,3348.0,1848.0
+20907,26.0,25-35,Small car,Male,Married,No,Yes,222405.0,220905.0
+20918,,,Small car,Female,Married,No,Yes,50000.0,48500.0
+20940,1.0,18 and below,Big car,Male,Single,No,Yes,155.0,0.0
+20945,47.0,45-55,Small car,Female,Married,,,8053.000000000001,6553.000000000001
+20975,38.0,35-45,Big car,Female,Married,No,Yes,702.0,0.0
+20990,26.0,25-35,Big car,Female,Married,No,Yes,260.0,0.0
+21006,18.0,18-25,Small car,Male,Single,No,Yes,78767.0,77267.0
+21084,73.0,55 and older,Small car,Male,Married,No,Yes,2725.0,1225.0
+21103,40.0,35-45,Small car,Male,Married,Yes,Yes,2550.0,1050.0
+21112,42.0,35-45,Small car,Female,Married,No,Yes,5995.0,4495.0
+21161,48.0,45-55,Big car,Male,Married,No,Yes,1390.0,0.0
+21215,17.0,18 and below,Small car,Female,Single,No,Yes,6000.0,4500.0
+21280,10.0,18 and below,Small car,Female,Single,No,No,3189.0,1689.0
+21291,41.0,35-45,Big car,Male,Married,No,Yes,320.0,0.0
+21310,26.0,25-35,Big car,Female,Married,No,Yes,600.0,0.0
+21354,44.0,35-45,Small car,Female,Married,No,Yes,6401.0,4901.0
+21369,,,Small car,Male,Married,No,Yes,7128.0,5628.0
+21376,,,Small car,Male,Single,No,Yes,2799.0,1299.0
+21379,27.0,25-35,Big car,Female,Married,No,Yes,3286.0,1786.0
+21404,64.0,55 and older,Small car,Female,Married,No,Yes,2870.0,1370.0
+21426,23.0,18-25,Small car,Male,Single,Yes,,2165.0,665.0
+21441,31.0,25-35,Small car,Male,Married,No,Yes,16967.0,15467.0
+21455,6.0,18 and below,Big car,Female,Married,No,Yes,1488.0,0.0
+21504,34.0,25-35,Small car,Female,Married,No,Yes,6057.0,4557.0
+21521,37.0,35-45,Big car,Male,Married,Yes,Yes,544.0,0.0
+21533,43.0,35-45,Big car,Female,Married,No,Yes,4188.0,2688.0
+21537,20.0,18-25,Small car,Female,Single,No,Yes,32015.0,30515.0
+21562,48.0,45-55,Small car,Female,Married,No,Yes,2150.0,650.0
+21570,30.0,25-35,Big car,Female,Married,No,Yes,310.0,0.0
+21632,41.0,35-45,Small car,Female,Married,No,,3505.0,2005.0
+21633,44.0,35-45,Small car,Female,Married,No,Yes,486.0,0.0
+21635,18.0,18-25,Small car,Male,Single,Yes,Yes,2817.0,1317.0
+21682,,,Big car,Male,Married,No,Yes,2000.0,500.0
+21750,16.0,18 and below,Small car,Male,Single,No,Yes,233.0,0.0
+21766,45.0,45-55,Small car,Female,Married,No,Yes,3651.0,2151.0
+21779,17.0,18 and below,Big car,Male,Single,No,Yes,30.0,0.0
+21809,,,Big car,Female,Married,No,Yes,2400.0,900.0
+21839,49.0,45-55,Small car,Male,Married,No,Yes,4378.0,2878.0
+21841,22.0,18-25,Big car,Female,Single,,Yes,400.0,0.0
+21928,22.0,18-25,Small car,Male,Single,No,No,1906.0,406.0
+21942,20.0,18-25,Small car,Male,Single,No,Yes,3372.0,1872.0
+21970,31.0,25-35,Small car,Male,Single,No,Yes,4370.0,2870.0
+21976,,,Big car,Female,Married,No,Yes,750.0,0.0
+22001,32.0,25-35,Big car,Male,Married,,,1439.0,0.0
+22002,14.0,18 and below,Big car,Female,Single,No,Yes,1235.0,0.0
+22057,25.0,25-35,Small car,Male,Single,No,Yes,2000.0,500.0
+22108,84.0,55 and older,Small car,Male,Single,No,Yes,2430.0,930.0
+22114,,,Big car,Male,Married,No,Yes,238.0,0.0
+22136,22.0,18-25,Big car,Female,Married,No,Yes,4506.0,3006.0
+22159,48.0,45-55,Small car,Female,Married,No,Yes,17296.0,15796.0
+22179,41.0,35-45,Big car,Male,Married,No,Yes,3250.0,1750.0
+22189,22.0,18-25,Small car,Male,Single,No,Yes,646.0,0.0
+22190,35.0,35-45,Big car,Female,Single,No,,1871.0,371.0
+22199,55.0,55 and older,Small car,Female,Married,Yes,Yes,2769.0,1269.0
+22286,,,Small car,Female,Married,No,Yes,1067697.0,1066197.0
+22318,33.0,25-35,Small car,Male,Married,No,Yes,2337.0,837.0
+22335,24.0,18-25,Big car,Female,Married,No,Yes,275.0,0.0
+22361,17.0,18 and below,Big car,Female,Single,No,Yes,432.0,0.0
+22376,22.0,18-25,Big car,Female,Single,No,Yes,1660.0,160.0
+22446,31.0,25-35,Big car,Female,Married,No,Yes,300.0,0.0
+22462,33.0,25-35,Small car,Female,Married,No,Yes,2000.0,500.0
+22537,,,Big car,Male,Single,No,Yes,171.0,0.0
+22582,53.0,45-55,Big car,Male,Married,No,Yes,3839.0,2339.0
+22654,45.0,45-55,Big car,Female,Married,No,Yes,2450.0,950.0
+22687,33.0,25-35,Small car,Male,Single,No,Yes,2985.0,1485.0
+22704,,,Big car,Male,Married,No,Yes,4434.0,2934.0
+22711,40.0,35-45,Small car,Female,Single,No,Yes,3600.0,2100.0
+22728,,,Small car,Female,Married,No,Yes,3925.0,2425.0
+22730,22.0,18-25,Small car,Female,Single,Yes,Yes,7999.0,6499.0
+22766,38.0,35-45,Big car,Male,Single,,,328.0,0.0
+22796,37.0,35-45,Big car,Male,Married,No,Yes,8074.999999999999,6574.999999999999
+22838,1.0,18 and below,Small car,Male,Single,No,Yes,190.0,0.0
+22873,3.0,18 and below,Small car,Female,Single,Yes,Yes,52.0,0.0
+22886,2.0,18 and below,Small car,Male,Single,,,300.0,0.0
+22900,,,Small car,Male,Married,Yes,Yes,5570.0,4070.0
+22923,6.0,18 and below,Big car,Female,Single,No,Yes,886.0,0.0
+22933,53.0,45-55,Big car,Female,Married,No,,2675.0,1175.0
+22942,43.0,35-45,Small car,Female,Married,No,Yes,9849.0,8349.0
+22949,22.0,18-25,Small car,Female,Married,No,Yes,4225.0,2725.0
+22962,30.0,25-35,Small car,Male,Single,No,Yes,9685.0,8185.0
+23016,77.0,55 and older,Big car,Male,Married,No,Yes,150.0,0.0
+23020,26.0,25-35,Big car,Female,Married,No,Yes,71.0,0.0
+23069,11.0,18 and below,Big car,Female,Single,No,Yes,125.0,0.0
+23072,41.0,35-45,Big car,Male,Married,Yes,Yes,2988.0,1488.0
+23092,19.0,18-25,Big car,Female,Single,Yes,Yes,2432.0,932.0
+23098,16.0,18 and below,Small car,Female,Single,No,Yes,1576.0,76.0
+23101,50.0,45-55,Small car,Male,Single,No,Yes,2162.0,662.0
+23114,,,Big car,Male,Single,No,Yes,990.0,0.0
+23129,26.0,25-35,Big car,Male,Single,No,Yes,2800.0,1300.0
+23148,26.0,25-35,Small car,Male,Married,No,Yes,3740.0,2240.0
+23151,71.0,55 and older,Small car,Female,Married,No,Yes,27404.0,25904.0
+23180,70.0,55 and older,Big car,Female,Divorced/Separated,No,Yes,4637.0,3137.0
+23191,18.0,18-25,Small car,Male,Single,No,Yes,4021.0,2521.0
+23200,20.0,18-25,Small car,Female,Single,Yes,Yes,11719.0,10219.0
+23253,19.0,18-25,Big car,Female,Single,No,Yes,415.0,0.0
+23279,50.0,45-55,Big car,,Single,No,Yes,800.0,0.0
+23308,44.0,35-45,Big car,Male,Divorced/Separated,No,Yes,3434.0,1934.0
+23339,34.0,25-35,Big car,Female,Married,No,Yes,1795.0,295.0
+23354,,,Big car,Male,Married,No,Yes,3330.0,1830.0
+23380,,,Small car,Male,Married,No,Yes,2645.0,1145.0
+23385,39.0,35-45,Small car,Male,Single,No,Yes,8825.0,7325.0
+23404,16.0,18 and below,Big car,Female,Single,No,Yes,400.0,0.0
+23431,,,Big car,Female,Married,No,Yes,540.0,0.0
+23471,20.0,18-25,Big car,Female,Single,Yes,Yes,2112.0,612.0
+23472,24.0,18-25,Small car,Male,Married,No,Yes,7285.0,5785.0
+23501,34.0,25-35,Small car,Male,Married,No,Yes,4511.0,3011.0
+23523,43.0,35-45,Big car,Female,Married,Yes,Yes,10188.0,8688.0
+23524,21.0,18-25,Small car,Male,Single,No,Yes,2173.0,673.0
+23543,29.0,25-35,Small car,Female,Married,Yes,Yes,830.0,0.0
+23548,56.0,55 and older,Big car,Male,Married,No,Yes,647.0,0.0
+23552,44.0,35-45,Small car,Male,Married,No,Yes,3685.0,2185.0
+23559,47.0,45-55,Big car,Female,Married,Yes,Yes,698.0,0.0
+23571,6.0,18 and below,Small car,Female,Single,No,Yes,1151.0,0.0
+23658,27.0,25-35,Small car,,Married,No,Yes,2139.0,639.0
+23675,20.0,18-25,Small car,Female,Single,No,Yes,3049.0,1549.0
+23682,,,Big car,Female,Single,No,Yes,500.0,0.0
+23697,52.0,45-55,Small car,Female,Married,No,Yes,2221.0,721.0
+23748,30.0,25-35,Small car,Female,Married,No,Yes,2201.0,701.0
+23764,28.0,25-35,Big car,Female,Married,No,Yes,2861.0,1361.0
+23788,17.0,18 and below,Big car,Female,Single,No,Yes,1379.0,0.0
+23795,33.0,25-35,Small car,Female,Married,No,Yes,10054.0,8554.0
+23802,50.0,45-55,Big car,Female,Married,No,Yes,5873.0,4373.0
+23879,28.0,25-35,Big car,Female,Single,No,Yes,6298.0,4798.0
+23893,46.0,45-55,Big car,Female,Married,Yes,Yes,75.0,0.0
+23901,16.0,18 and below,Big car,Female,Single,No,Yes,136.0,0.0
+23922,,,Big car,Male,Single,No,Yes,143.0,0.0
+23933,44.0,35-45,Small car,Male,Single,No,Yes,1835.0,335.0
+23961,40.0,35-45,Big car,Female,Married,No,Yes,1300.0,0.0
+23963,20.0,18-25,Big car,Female,Single,No,Yes,415.0,0.0
+23984,34.0,25-35,Big car,Female,Married,No,Yes,414.0,0.0
+24062,,,Big car,Female,Single,No,Yes,138.0,0.0
+24090,9.0,18 and below,Small car,Female,Single,No,Yes,70.0,0.0
+24106,32.0,25-35,Big car,Female,Married,No,Yes,2486.0,986.0
+24228,53.0,45-55,Big car,Male,Married,No,Yes,1000.0,0.0
+24233,,,Small car,Male,Divorced/Separated,No,Yes,6938.0,5438.0
+24251,8.0,18 and below,Small car,Female,Single,No,Yes,200.0,0.0
+24258,,,Big car,Female,Married,No,Yes,200.0,0.0
+24295,54.0,45-55,Small car,Male,Married,No,Yes,15000.0,13500.0
+24306,28.0,25-35,Big car,Male,Single,No,Yes,3365.0,1865.0
+24311,,,Big car,Male,Single,No,Yes,581.0,0.0
+24385,60.0,55 and older,Small car,Female,Single,No,Yes,8681.0,7181.0
+24461,14.0,18 and below,Small car,Male,Single,No,Yes,2445.0,945.0
+24487,,,Small car,Female,Single,No,Yes,3182.0,1682.0
+24521,9.0,18 and below,Big car,Male,Single,No,Yes,300.0,0.0
+24532,29.0,25-35,Big car,Female,Single,No,Yes,150.0,0.0
+24574,21.0,18-25,Big car,Male,Single,No,Yes,59.0,0.0
+24594,23.0,18-25,Big car,Female,Single,No,Yes,456.0,0.0
+24672,18.0,18-25,Big car,Female,Married,No,Yes,2805.0,1305.0
+24692,55.0,55 and older,Big car,Female,Married,No,Yes,2902.0,1402.0
+24706,,,Big car,Male,Married,No,Yes,750.0,0.0
+24744,34.0,25-35,Small car,Male,Single,No,Yes,1495.0,0.0
+24745,38.0,35-45,Small car,Male,Single,No,Yes,3735.0,2235.0
+24750,39.0,35-45,Small car,Female,Single,No,Yes,1320.0,0.0
+24754,21.0,18-25,Small car,Female,Married,No,Yes,4878.0,3378.0
+24758,41.0,35-45,Small car,Female,Married,No,Yes,36247.0,34747.0
+24771,45.0,45-55,Big car,Female,Married,No,Yes,1350.0,0.0
+24772,16.0,18 and below,Big car,Female,Single,No,Yes,618.0,0.0
+24821,18.0,18-25,Small car,,Single,No,Yes,2365.0,865.0
+24865,49.0,45-55,Big car,Male,Married,No,Yes,4724.0,3224.0
+24896,,,Big car,Female,Single,No,Yes,325.0,0.0
+24933,,,Small car,Female,Married,Yes,Yes,2932.0,1432.0
+24951,25.0,25-35,Small car,Male,Married,No,Yes,2465.0,965.0
+24954,24.0,18-25,Small car,Male,Married,No,Yes,21869.0,20369.0
+24959,22.0,18-25,Big car,Male,Single,No,Yes,1500.0,0.0
+24975,68.0,55 and older,Small car,Male,Married,No,Yes,9008.0,7508.0
+25010,41.0,35-45,Small car,Female,Married,No,Yes,4208.0,2708.0
+25020,18.0,18-25,Big car,Female,Single,Yes,Yes,250.0,0.0
+25060,31.0,25-35,Big car,Female,Married,No,Yes,512.0,0.0
+25081,39.0,35-45,Big car,Female,Married,No,Yes,4810.0,3310.0
+25090,8.0,18 and below,Small car,Male,Single,No,Yes,4996.0,3496.0
+25137,49.0,45-55,Small car,Male,Married,No,Yes,188720.0,187220.0
+25145,48.0,45-55,Small car,Female,Married,No,Yes,6067.0,4567.0
+25150,17.0,18 and below,Small car,Male,Single,No,Yes,4995.0,3495.0
+25152,16.0,18 and below,Big car,Female,Single,No,Yes,1757.0,257.0
+25198,2.0,18 and below,Small car,Male,Single,No,Yes,200.0,0.0
+25214,,,Big car,Male,,No,Yes,2000.0,500.0
+25235,52.0,45-55,Big car,Male,Married,No,Yes,6012.0,4512.0
+25283,29.0,25-35,Small car,Female,Married,No,,4019.0,2519.0
+25285,39.0,35-45,Big car,Male,Married,No,Yes,300.0,0.0
+25378,25.0,25-35,Small car,Male,Single,No,Yes,6590.0,5090.0
+25383,18.0,18-25,Small car,Male,Single,No,Yes,2390.0,890.0
+25401,39.0,35-45,Big car,Female,Married,No,Yes,784.0,0.0
+25406,12.0,18 and below,Small car,Male,Single,No,Yes,3218.0,1718.0
+25417,43.0,35-45,Small car,Female,Single,No,Yes,18491.0,16991.0
+25435,27.0,25-35,Big car,Female,Single,No,,2065.0,565.0
+25438,9.0,18 and below,Big car,Male,Single,No,Yes,500.0,0.0
+25455,30.0,25-35,Big car,Female,Married,No,Yes,1632.0,132.0
+25475,16.0,18 and below,Small car,Female,Single,No,Yes,2205.0,705.0
+25516,29.0,25-35,Small car,Male,Married,No,Yes,3770.0,2270.0
+25562,48.0,45-55,Small car,Male,Married,No,Yes,6244.0,4744.0
+25574,,,Big car,Male,Single,Yes,Yes,3065.0,1565.0
+25585,,,Big car,Male,Married,No,Yes,356.0,0.0
+25587,25.0,25-35,Big car,Female,Married,No,Yes,2190.0,690.0
+25602,26.0,25-35,Big car,Female,Single,No,Yes,205.0,0.0
+25606,,,Small car,Female,Single,No,Yes,140.0,0.0
+25659,25.0,25-35,Small car,Female,Married,No,Yes,2766.0,1266.0
+25680,32.0,25-35,Small car,Male,Married,No,Yes,2326.0,826.0
+25693,17.0,18 and below,Small car,Male,Single,No,Yes,2195.0,695.0
+25732,41.0,35-45,Small car,Male,Married,Yes,Yes,1600.0,100.0
+25761,53.0,45-55,Small car,Female,Married,No,Yes,10576.0,9076.0
+25799,15.0,18 and below,Big car,Male,Single,No,Yes,500.0,0.0
+25802,63.0,55 and older,Big car,Male,Single,No,Yes,2985.0,1485.0
+25805,0.0,18 and below,Small car,,,No,Yes,16300.0,14800.0
+25871,,,Big car,Female,Single,No,Yes,284.0,0.0
+25898,55.0,55 and older,Small car,Female,Single,No,Yes,1060.0,0.0
+25902,78.0,55 and older,Big car,Female,Widowed,No,Yes,25.0,0.0
+26023,40.0,35-45,Small car,Female,Married,No,Yes,2903.0,1403.0
+26032,17.0,18 and below,Big car,Male,Single,No,Yes,7281.0,5781.0
+26070,69.0,55 and older,Small car,Female,Married,Yes,Yes,3221.0,1721.0
+26080,54.0,45-55,Small car,Female,Single,No,Yes,7391.0,5891.0
+26123,19.0,18-25,Small car,Male,Single,No,Yes,2908.0,1408.0
+26188,22.0,18-25,Big car,Female,Single,No,Yes,986.0,0.0
+26239,40.0,35-45,Big car,Female,Married,No,Yes,3775.0,2275.0
+26247,36.0,35-45,Small car,Female,Single,No,Yes,4303.0,2803.0
+26270,18.0,18-25,Big car,Male,Married,No,Yes,764.0,0.0
+26310,34.0,25-35,Big car,Male,Single,No,Yes,1802.0,302.0
+26316,,,Small car,Female,Married,No,Yes,4000.0,2500.0
+26325,21.0,18-25,Big car,Female,Single,No,Yes,60.0,0.0
+26338,38.0,35-45,Small car,Female,Married,No,Yes,3416.0,1916.0
+26345,42.0,35-45,Big car,Female,Married,No,Yes,494.0,0.0
+26347,30.0,25-35,Small car,Female,Single,No,Yes,10289.0,8789.0
+26372,21.0,18-25,Big car,Female,Married,No,Yes,946.0,0.0
+26379,30.0,25-35,Big car,Female,Married,No,Yes,4488.0,2988.0
+26383,42.0,35-45,Small car,Male,Married,Yes,Yes,3640.0,2140.0
+26452,45.0,45-55,Small car,Male,Married,No,Yes,18745.0,17245.0
+26456,42.0,35-45,Big car,Male,Married,No,Yes,280.0,0.0
+26506,18.0,18-25,Big car,Female,Single,No,Yes,590.0,0.0
+26534,11.0,18 and below,Small car,Female,Single,No,Yes,60.0,0.0
+26546,20.0,18-25,Big car,Male,Single,No,Yes,663.0,0.0
+26562,73.0,55 and older,Big car,Female,Single,No,Yes,2546.0,1046.0
+26572,74.0,55 and older,Big car,Male,Married,No,Yes,2064.0,564.0
+26580,27.0,25-35,Small car,Female,Married,No,Yes,1136.0,0.0
+26613,16.0,18 and below,Small car,Female,Single,No,Yes,1000.0,0.0
+26624,45.0,45-55,Big car,Female,Divorced/Separated,No,Yes,2903.0,1403.0
+26676,58.0,55 and older,Small car,Male,Single,No,Yes,320.0,0.0
+26677,,,Big car,Male,Married,No,Yes,150.0,0.0
+26697,19.0,18-25,Small car,Male,Single,No,Yes,3050.0,1550.0
+26708,48.0,45-55,Small car,Female,Married,No,Yes,1871.0,371.0
+26738,37.0,35-45,Big car,Female,Married,No,Yes,1935.0,435.0
+26748,55.0,55 and older,Big car,Female,Married,No,Yes,404.0,0.0
+26769,15.0,18 and below,Small car,Male,Single,No,Yes,2475.0,975.0
+26773,20.0,18-25,Big car,Male,Single,No,Yes,69.0,0.0
+26798,,,Big car,Female,Married,No,Yes,150.0,0.0
+26844,47.0,45-55,Small car,Male,Married,No,Yes,3675.0,2175.0
+26869,32.0,25-35,Small car,Male,Single,No,Yes,2396.0,896.0
+26870,22.0,18-25,Small car,Female,Single,No,Yes,4135.0,2635.0
+26916,58.0,55 and older,Small car,Female,Married,No,Yes,9485.0,7985.0
+26918,24.0,18-25,Big car,Male,Single,No,Yes,251.0,0.0
+26919,,,Small car,Female,Single,No,Yes,262.0,0.0
+26989,49.0,45-55,Big car,Male,Divorced/Separated,No,Yes,195.0,0.0
+27039,86.0,55 and older,Big car,Female,Widowed,No,Yes,2694.0,1194.0
+27048,29.0,25-35,Small car,Female,Married,No,Yes,2985.0,1485.0
+27202,,,Small car,Male,Married,No,Yes,1974.0,474.0
+27248,63.0,55 and older,Small car,Female,Divorced/Separated,No,Yes,4504.0,3004.0
+27260,47.0,45-55,Big car,Female,Married,No,Yes,481.0,0.0
+27265,18.0,18-25,Big car,Female,Single,No,Yes,1879.0,379.0
+27276,25.0,25-35,Big car,Female,Single,No,Yes,155.0,0.0
+27296,24.0,18-25,Small car,Female,Single,No,Yes,2650.0,1150.0
+27303,25.0,25-35,Small car,Female,Single,No,No,96007.0,94507.0
+27334,78.0,55 and older,Big car,Male,Married,No,Yes,178.0,0.0
+27405,34.0,25-35,Small car,Male,Single,No,Yes,7364.0,5864.0
+27433,27.0,25-35,Big car,Male,Single,No,Yes,150.0,0.0
+27470,33.0,25-35,Big car,Male,Married,No,Yes,80.0,0.0
+27487,35.0,35-45,Big car,Male,Single,No,Yes,1950.0,450.0
+27507,59.0,55 and older,Big car,Male,Married,No,Yes,2675.0,1175.0
+27551,33.0,25-35,Small car,Female,Married,No,Yes,3031.0,1531.0
+27560,35.0,35-45,Big car,Male,Single,Yes,Yes,319.0,0.0
+27599,35.0,35-45,Small car,Male,Single,No,Yes,2727.0,1227.0
+27638,7.0,18 and below,Small car,Male,Single,No,Yes,1640.0,140.0
+27711,40.0,35-45,Small car,Female,Married,No,Yes,722.0,0.0
+27714,18.0,18-25,Small car,Male,Single,Yes,Yes,2699.0,1199.0
+27718,23.0,18-25,Small car,Female,Married,Yes,Yes,2116.0,616.0
+27739,56.0,55 and older,Big car,Male,Married,No,Yes,1036.0,0.0
+27749,38.0,35-45,Big car,Female,Married,No,Yes,517.0,0.0
+27786,77.0,55 and older,Big car,Female,Widowed,No,Yes,2000.0,500.0
+27790,33.0,25-35,Big car,Male,Married,No,Yes,601.0,0.0
+27798,35.0,35-45,Big car,Female,Married,No,Yes,2723.0,1223.0
+27812,26.0,25-35,Big car,Female,Single,No,Yes,5600.0,4100.0
+27813,36.0,35-45,Small car,Male,Married,Yes,Yes,6216.0,4716.0
+27843,,,Small car,Male,Single,No,Yes,3310.0,1810.0
+27897,58.0,55 and older,Big car,Female,Married,,,1648.0,148.0
+27945,3.0,18 and below,Small car,Female,Single,No,Yes,1346.0,0.0
+27954,39.0,35-45,Big car,Female,Married,No,Yes,450.0,0.0
+27960,26.0,25-35,Big car,Female,Single,No,Yes,5598.0,4098.0
+28089,47.0,45-55,Small car,Male,Married,Yes,Yes,6171.0,4671.0
+28110,45.0,45-55,Small car,Male,Married,No,Yes,4075.0,2575.0
+28137,20.0,18-25,Big car,Female,Single,No,Yes,5881.0,4381.0
+28148,39.0,35-45,Big car,Female,Married,No,Yes,2472.0,972.0
+28157,47.0,45-55,Small car,Male,Married,No,Yes,1180.0,0.0
+28195,51.0,45-55,Small car,Male,Married,No,Yes,3095.0,1595.0
+28209,65.0,55 and older,Big car,Female,Married,No,Yes,4558.0,3058.0
+28220,43.0,35-45,Small car,Male,Married,No,Yes,3394.0,1894.0
+28294,26.0,25-35,Big car,Female,Married,No,Yes,1895.0,395.0
+28310,43.0,35-45,Small car,Female,Single,No,Yes,3800.0,2300.0
+28329,9.0,18 and below,Small car,Male,Single,No,Yes,290.0,0.0
+28331,49.0,45-55,Small car,Male,Married,No,Yes,3730.0,2230.0
+28341,54.0,45-55,Small car,Female,Married,No,Yes,7367.0,5867.0
+28342,46.0,45-55,Small car,Female,Married,No,Yes,4019.9999999999995,2519.9999999999995
+28368,36.0,35-45,Small car,Male,Married,No,Yes,18476.0,16976.0
+28455,36.0,35-45,Small car,Male,Single,No,Yes,4325.0,2825.0
+28461,51.0,45-55,Small car,Male,Married,No,Yes,3786.0,2286.0
+28463,54.0,45-55,Big car,Male,Single,No,Yes,748.0,0.0
+28519,40.0,35-45,Big car,Female,Married,No,Yes,15.0,0.0
+28522,46.0,45-55,Big car,Female,Married,No,Yes,13510.0,12010.0
+28551,6.0,18 and below,Small car,Male,Single,No,Yes,354.0,0.0
+28607,,,Big car,Male,Single,No,Yes,300.0,0.0
+28653,22.0,18-25,Small car,Female,Single,Yes,Yes,3370.0,1870.0
+28663,10.0,18 and below,Small car,Female,Single,No,Yes,7269.0,5769.0
+28737,4.0,18 and below,Small car,Male,Single,No,Yes,320.0,0.0
+28753,4.0,18 and below,Big car,Female,Single,No,Yes,1291.0,0.0
+28766,24.0,18-25,Small car,Female,Single,No,Yes,5830.0,4330.0
+28784,31.0,25-35,Small car,Male,Married,No,Yes,2826.0,1326.0
+28791,61.0,55 and older,Big car,Female,Divorced/Separated,No,Yes,300.0,0.0
+28795,,,Small car,Female,Single,No,Yes,2100.0,600.0
+28813,,,Big car,Female,Married,No,Yes,500.0,0.0
+28835,36.0,35-45,Big car,Male,Married,No,No,3919.0,2419.0
+28862,28.0,25-35,Small car,Male,Married,No,Yes,6080.0,4580.0
+28887,46.0,45-55,Big car,Female,Single,No,Yes,1730.0,230.0
+28942,37.0,35-45,Big car,Female,Married,No,Yes,14619.0,13119.0
+28945,,,Big car,Female,Widowed,No,Yes,80.0,0.0
+28954,16.0,18 and below,Big car,Female,Single,No,Yes,60.0,0.0
+28984,62.0,55 and older,Big car,Female,Married,No,Yes,2052.0,552.0
+28987,20.0,18-25,Big car,Male,Single,No,Yes,200.0,0.0
+28990,30.0,25-35,Small car,Female,Married,No,Yes,5595.0,4095.0
+29075,18.0,18-25,Small car,Male,Single,No,Yes,3524.0,2024.0
+29133,,,Big car,Female,Married,No,Yes,150.0,0.0
+29162,23.0,18-25,Small car,Female,Single,No,Yes,4094.9999999999995,2594.9999999999995
+29167,36.0,35-45,Big car,Male,Married,No,Yes,2590.0,1090.0
+29169,57.0,55 and older,Big car,Female,Single,No,Yes,3925.0,2425.0
+29171,62.0,55 and older,Big car,Female,Married,No,Yes,390.0,0.0
+29187,48.0,45-55,Small car,Male,Married,No,Yes,1755.0,255.0
+29193,27.0,25-35,Big car,Male,Married,Yes,Yes,579.0,0.0
+29218,21.0,18-25,Small car,Male,Married,No,Yes,5057.0,3557.0
+29273,30.0,25-35,Small car,Female,Married,No,Yes,2110.0,610.0
+29295,,,Small car,Female,Single,No,Yes,4265.0,2765.0
+29351,44.0,35-45,Big car,Male,Single,No,Yes,4569.0,3069.0
+29389,23.0,18-25,Small car,Female,Single,No,Yes,13817.0,12317.0
+29395,39.0,35-45,Big car,Female,Divorced/Separated,No,Yes,4162.0,2662.0
+29406,23.0,18-25,Big car,Male,Single,No,Yes,230.0,0.0
+29414,46.0,45-55,Small car,Female,Married,No,Yes,10507.0,9007.0
+29420,52.0,45-55,Small car,Male,Married,Yes,Yes,41574.0,40074.0
+29440,17.0,18 and below,Big car,Female,Single,No,Yes,3734.0,2234.0
+29446,7.0,18 and below,Small car,Female,Single,No,,256.0,0.0
+29447,15.0,18 and below,Small car,Male,Single,Yes,Yes,2451.0,951.0
+29465,54.0,45-55,Small car,Female,Single,No,Yes,4097.0,2597.0
+29490,,,Big car,Male,Married,No,Yes,250.0,0.0
+29558,44.0,35-45,Big car,Male,Married,No,Yes,3549.0,2049.0
+29561,45.0,45-55,Small car,Female,Married,Yes,No,3370.0,1870.0
+29609,1.0,18 and below,Big car,Female,Single,No,Yes,90.0,0.0
+29615,37.0,35-45,Small car,Male,Married,No,Yes,2952.0,1452.0
+29671,59.0,55 and older,Big car,Male,Married,No,Yes,288.0,0.0
+29683,13.0,18 and below,Small car,Male,Single,Yes,Yes,1378.0,0.0
+29702,16.0,18 and below,Small car,Female,Single,No,Yes,3530.0,2030.0
+29720,5.0,18 and below,Big car,Female,Single,No,Yes,1255.0,0.0
+29762,,,Big car,Male,Married,No,Yes,2340.0,840.0
+29765,40.0,35-45,Small car,Female,Single,Yes,Yes,21728.0,20228.0
+29790,22.0,18-25,Big car,Male,Single,,,3328.0,1828.0
+29824,34.0,25-35,Big car,Male,Married,No,Yes,150.0,0.0
+29837,76.0,55 and older,Small car,Male,Married,No,Yes,1250.0,0.0
+29857,,,Big car,,,,,10.0,0.0
+29884,51.0,45-55,Small car,Female,Married,No,Yes,2065.0,565.0
+29962,16.0,18 and below,Big car,Female,Single,No,Yes,4165.0,2665.0
+30021,,,Small car,Male,Married,,,3490.0,1990.0
+30027,3.0,18 and below,Small car,Female,Single,No,Yes,1095.0,0.0
+30033,19.0,18-25,Big car,Male,Single,No,Yes,3578.0,2078.0
+30085,23.0,18-25,Big car,Male,Single,No,Yes,1746.0,246.0
+30164,68.0,55 and older,Big car,Female,Single,No,Yes,1004.0,0.0
+30263,26.0,25-35,Small car,Male,Married,No,Yes,2909.0,1409.0
+30306,,,Small car,,,No,Yes,3675.0,2175.0
+30357,56.0,55 and older,Small car,Male,Married,No,Yes,25112.0,23612.0
+30382,38.0,35-45,Small car,Male,Married,No,Yes,5061.0,3561.0
+30384,23.0,18-25,Big car,Female,Single,No,Yes,2600.0,1100.0
+30431,37.0,35-45,Small car,Female,Married,No,Yes,23789.0,22289.0
+30436,,,Big car,Male,Married,No,Yes,98.0,0.0
+30448,19.0,18-25,Small car,Male,Single,Yes,Yes,3760.0,2260.0
+30483,33.0,25-35,Small car,Female,Married,,,4835.0,3335.0
+30490,0.0,18 and below,Big car,Male,Single,No,Yes,309.0,0.0
+30498,20.0,18-25,Small car,Male,Married,No,Yes,3290.0,1790.0
+30502,34.0,25-35,Big car,Female,Single,No,Yes,1674.0,174.0
+30548,,,Big car,Male,Married,No,Yes,141.0,0.0
+30557,40.0,35-45,Big car,Male,Single,No,Yes,1925.0,425.0
+30588,44.0,35-45,Small car,Female,Single,No,Yes,23000.0,21500.0
+30594,9.0,18 and below,Big car,Male,Single,No,Yes,2393.0,893.0
+30634,48.0,45-55,Small car,Male,Married,No,Yes,3549.0,2049.0
+30670,0.0,18 and below,Small car,Female,Single,No,Yes,535.0,0.0
+30683,5.0,18 and below,Small car,Female,Single,No,Yes,270.0,0.0
+30759,,,Small car,Male,Married,No,Yes,4030.0000000000005,2530.0000000000005
+30782,17.0,18 and below,Big car,Female,Single,No,Yes,599.0,0.0
+30791,28.0,25-35,Small car,Male,Married,No,Yes,2605.0,1105.0
+30793,35.0,35-45,Small car,Female,Married,No,Yes,4333.0,2833.0
+30799,76.0,55 and older,Small car,Male,Married,No,Yes,3756.0,2256.0
+30826,27.0,25-35,Big car,Female,Single,No,Yes,497.0,0.0
+30901,,,Small car,Female,Married,No,Yes,4673.0,3173.0
+30908,25.0,25-35,Big car,Male,Single,Yes,Yes,2109.0,609.0
+30913,,,Big car,Female,Married,No,Yes,250.0,0.0
+30919,22.0,18-25,Big car,Female,Single,No,Yes,1436.0,0.0
+30925,38.0,35-45,Big car,Male,Married,No,Yes,1800.0,300.0
+30932,16.0,18 and below,Small car,Female,Single,No,Yes,3781.0,2281.0
+30948,53.0,45-55,Big car,Female,Married,No,Yes,405.0,0.0
+31023,47.0,45-55,Big car,Female,Married,No,Yes,129.0,0.0
+31050,40.0,35-45,Small car,Male,Married,No,Yes,3590.0,2090.0
+31052,3.0,18 and below,Small car,Female,Single,No,Yes,607.0,0.0
+31063,55.0,55 and older,Big car,Female,Married,No,Yes,3348.0,1848.0
+31125,80.0,55 and older,Big car,Male,Married,No,Yes,347.0,0.0
+31141,19.0,18-25,Big car,Female,Single,No,Yes,2747.0,1247.0
+31165,52.0,45-55,Small car,Female,Single,No,Yes,4027.0,2527.0
+31218,7.0,18 and below,Big car,Female,Single,No,Yes,358.0,0.0
+31279,17.0,18 and below,Big car,Female,Single,No,Yes,60.0,0.0
+31383,22.0,18-25,Small car,Female,Single,No,Yes,8642.0,7142.0
+31389,20.0,18-25,Big car,Female,Married,No,Yes,1339.0,0.0
+31408,29.0,25-35,Small car,Female,Single,No,Yes,5210.0,3710.0
+31413,40.0,35-45,Big car,Female,Divorced/Separated,No,Yes,1835.0,335.0
+31507,31.0,25-35,Big car,Female,Single,No,Yes,391.0,0.0
+31584,47.0,45-55,Big car,Female,Married,No,Yes,1600.0,100.0
+31675,18.0,18-25,Small car,Female,Married,No,Yes,2595.0,1095.0
+31719,48.0,45-55,Small car,Female,Married,No,Yes,2334.0,834.0
+31752,34.0,25-35,Big car,,Married,No,Yes,250.0,0.0
+31771,33.0,25-35,Small car,Female,Single,No,Yes,11716.0,10216.0
+31775,44.0,35-45,Small car,Female,Single,No,Yes,3723.0,2223.0
+31783,,,Small car,Male,Single,No,Yes,3899.0,2399.0
+31816,,,Small car,Male,Single,No,Yes,262.0,0.0
+31826,46.0,45-55,Small car,Male,Married,No,Yes,12807.0,11307.0
+31841,,,Big car,Female,Single,No,Yes,1570.0,70.0
+31858,39.0,35-45,Big car,Female,Married,No,Yes,944.0,0.0
+31880,,,Big car,Male,Divorced/Separated,No,Yes,1200.0,0.0
+31903,49.0,45-55,Big car,Female,Single,Yes,Yes,4492.0,2992.0
+31957,58.0,55 and older,Small car,Female,Married,No,Yes,3306.0,1806.0
+31962,,,Big car,Female,Single,No,Yes,2640.0,1140.0
+31976,10.0,18 and below,Small car,Female,Single,No,Yes,763.0,0.0
+31998,25.0,25-35,Small car,Female,Single,No,Yes,2556.0,1056.0
+32013,70.0,55 and older,Small car,Female,Widowed,No,Yes,10195.0,8695.0
+32022,41.0,35-45,Big car,Female,Married,No,Yes,1398.0,0.0
+32026,18.0,18-25,Big car,Female,Single,No,Yes,125.0,0.0
+32036,30.0,25-35,Small car,Male,Married,No,Yes,3570.0,2070.0
+32056,32.0,25-35,Small car,Female,Married,Yes,Yes,3343.0,1843.0
+32059,46.0,45-55,Small car,Male,Single,No,Yes,6140.0,4640.0
+32075,21.0,18-25,Small car,Female,Single,No,Yes,2673.0,1173.0
+32096,,,Big car,Female,Single,No,Yes,275.0,0.0
+32102,51.0,45-55,Big car,Male,Married,No,Yes,1235.0,0.0
+32118,45.0,45-55,Big car,,Single,No,Yes,358.0,0.0
+32120,8.0,18 and below,Big car,Female,Single,No,Yes,100.0,0.0
+32142,51.0,45-55,Small car,Male,Married,No,Yes,2125.0,625.0
+32156,,,Small car,Female,Married,No,Yes,1370.0,0.0
+32182,17.0,18 and below,Small car,Male,Single,,,2850.0,1350.0
+32194,27.0,25-35,Small car,Male,Married,No,Yes,12968.0,11468.0
+32207,1.0,18 and below,Small car,Female,Single,No,Yes,300.0,0.0
+32222,66.0,55 and older,Big car,Male,Single,No,Yes,2545.0,1045.0
+32228,37.0,35-45,Small car,Male,Married,No,Yes,4328.0,2828.0
+32242,48.0,45-55,Big car,Male,Married,No,Yes,1455.0,0.0
+32259,31.0,25-35,Small car,Male,Married,No,No,31641.0,30141.0
+32330,17.0,18 and below,Big car,Male,Single,No,Yes,453.0,0.0
+32351,36.0,35-45,Big car,Female,Single,No,Yes,6908.0,5408.0
+32386,39.0,35-45,Small car,Male,Single,No,Yes,4310.0,2810.0
+32388,1.0,18 and below,Big car,Male,Single,No,Yes,440.0,0.0
+32411,35.0,35-45,Small car,Female,Married,No,Yes,2702.0,1202.0
+32480,10.0,18 and below,Small car,Male,Single,No,Yes,123.0,0.0
+32510,39.0,35-45,Small car,Female,Single,No,Yes,10936.0,9436.0
+32518,36.0,35-45,Big car,Male,Single,No,Yes,507.0,0.0
+32532,,,Small car,Male,Married,No,Yes,1565.0,65.0
+32556,37.0,35-45,Big car,Female,Married,No,Yes,1293.0,0.0
+32582,,,Small car,Female,Married,No,Yes,7552.0,6052.0
+32591,50.0,45-55,Small car,Male,Married,No,Yes,2618.0,1118.0
+32594,,,Small car,Female,Married,No,Yes,3500.0,2000.0
+32637,17.0,18 and below,Big car,Female,Single,No,Yes,449.0,0.0
+32667,40.0,35-45,Small car,Male,Married,No,Yes,3735.0,2235.0
+32711,34.0,25-35,Big car,Female,Single,No,Yes,250.0,0.0
+32739,28.0,25-35,Big car,Female,Married,No,Yes,1851.0,351.0
+32751,10.0,18 and below,Big car,Female,Single,No,Yes,1300.0,0.0
+32784,15.0,18 and below,Big car,Female,Single,No,Yes,290.0,0.0
+32798,50.0,45-55,Small car,Female,Married,No,,3300.0,1800.0
+32905,19.0,18-25,Small car,Male,Single,No,Yes,7610.0,6110.0
+32944,19.0,18-25,Small car,Female,Single,No,Yes,6459.0,4959.0
+32961,50.0,45-55,Small car,Female,Married,No,Yes,4986.0,3486.0
+32994,36.0,35-45,Small car,Male,Married,No,Yes,465.0,0.0
+33015,30.0,25-35,Small car,Male,Married,No,Yes,3735.0,2235.0
+33033,0.0,18 and below,Small car,Female,Single,No,Yes,1167.0,0.0
+33047,31.0,25-35,Small car,Male,Married,Yes,Yes,4247.0,2747.0
+33054,8.0,18 and below,Big car,Male,Single,No,Yes,485.0,0.0
+33125,40.0,35-45,Big car,Female,Married,No,Yes,50.0,0.0
+33137,44.0,35-45,Small car,Female,Single,No,No,55719.0,54219.0
+33150,20.0,18-25,Big car,Male,Single,Yes,Yes,40.0,0.0
+33168,14.0,18 and below,Big car,Female,Single,No,Yes,2265.0,765.0
+33173,42.0,35-45,Small car,Female,Single,No,Yes,5611.0,4111.0
+33185,,,Big car,Male,Married,No,No,6200.0,4700.0
+33244,29.0,25-35,Big car,Female,Married,No,Yes,2537.0,1037.0
+33250,21.0,18-25,Big car,Male,Single,No,Yes,964.0,0.0
+33265,41.0,35-45,Big car,Male,Married,No,Yes,1749.0,249.0
+33277,,,Small car,Female,Married,No,Yes,2142.0,642.0
+33298,28.0,25-35,Small car,Female,Single,No,Yes,3280.0,1780.0
+33307,36.0,35-45,Big car,Male,Married,No,Yes,4448.0,2948.0
+33328,,,Small car,Male,Single,Yes,Yes,3810.0,2310.0
+33330,18.0,18-25,Big car,Female,Single,No,Yes,2295.0,795.0
+33379,29.0,25-35,Big car,Female,Married,No,Yes,7393.0,5893.0
+33440,72.0,55 and older,Small car,Male,Married,No,Yes,2595.0,1095.0
+33451,,,Big car,Female,Single,No,Yes,1701.0,201.0
+33455,19.0,18-25,Big car,Female,Single,No,Yes,364.0,0.0
+33466,,,Small car,Female,Divorced/Separated,No,Yes,3845.0,2345.0
+33468,,,Big car,Female,Single,No,Yes,500.0,0.0
+33498,,,Big car,Male,Married,No,Yes,1000.0,0.0
+33513,38.0,35-45,Big car,Female,Married,No,Yes,5.0,0.0
+33553,20.0,18-25,Big car,Female,Single,No,Yes,1129.0,0.0
+33587,43.0,35-45,Small car,Female,Married,No,Yes,5434.0,3934.0
+33591,31.0,25-35,Small car,Male,Married,No,Yes,3034.0,1534.0
+33617,40.0,35-45,Small car,Female,Single,No,Yes,905.0,0.0
+33624,41.0,35-45,Small car,Male,Married,No,Yes,5268.0,3768.0
+33662,45.0,45-55,Small car,Female,Divorced/Separated,No,Yes,24884.0,23384.0
+33687,17.0,18 and below,Big car,Female,Single,No,Yes,986.0,0.0
+33697,17.0,18 and below,Big car,Male,Single,No,Yes,207.0,0.0
+33742,18.0,18-25,Small car,Male,Single,No,Yes,2205.0,705.0
+33744,21.0,18-25,Big car,Female,Single,Yes,,258.0,0.0
+33750,17.0,18 and below,Small car,Male,Single,No,Yes,3535.0,2035.0
+33759,,,Big car,Female,Single,No,Yes,70.0,0.0
+33778,34.0,25-35,Big car,Male,Single,No,Yes,1763.0,263.0
+33841,,,Big car,Female,Married,No,Yes,1541.0,41.0
+33858,,,Small car,Male,Single,No,Yes,3437.0,1937.0
+33865,12.0,18 and below,Big car,Female,Single,No,Yes,80.0,0.0
+33882,19.0,18-25,Small car,Female,Single,No,Yes,5461.0,3961.0
+33883,20.0,18-25,Small car,Male,Single,No,Yes,6564.0,5064.0
+34001,19.0,18-25,Small car,Female,Single,No,Yes,3269.0,1769.0
+34035,17.0,18 and below,Small car,Female,Single,No,Yes,1688.0,188.0
+34050,71.0,55 and older,Small car,Female,Widowed,No,Yes,505.0,0.0
+34055,24.0,18-25,Small car,Male,Single,No,Yes,401.0,0.0
+34085,33.0,25-35,Big car,Female,Single,No,Yes,1535.0,35.0
+34122,33.0,25-35,Big car,Male,Single,No,Yes,6827.0,5327.0
+34131,13.0,18 and below,Small car,Female,Single,No,Yes,1951.0,451.0
+34166,19.0,18-25,Big car,Female,Single,No,Yes,1110.0,0.0
+34189,49.0,45-55,Big car,Male,Single,No,Yes,100.0,0.0
+34204,26.0,25-35,Big car,Female,Single,No,Yes,161.0,0.0
+34210,,,Big car,Male,Single,No,Yes,576.0,0.0
+34220,46.0,45-55,Small car,Female,Married,No,Yes,3705.0,2205.0
+34223,39.0,35-45,Big car,Female,Married,No,Yes,99.0,0.0
+34245,18.0,18-25,Small car,Female,Single,Yes,Yes,3277.0,1777.0
+34253,30.0,25-35,Big car,Female,Single,No,Yes,688.0,0.0
