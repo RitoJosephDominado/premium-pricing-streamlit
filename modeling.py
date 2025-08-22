@@ -8,27 +8,38 @@ from statsmodels.iolib.smpickle import save_pickle
 from sklearn.metrics import mean_absolute_percentage_error
 from sklearn.metrics import mean_squared_error
 
-def prepare_data(df):
+def prepare_data(df, predictors_to_exclude=[]):
     categorical_imputer = SimpleImputer(missing_values=np.nan, strategy='most_frequent')
     numerical_imputer = SimpleImputer(missing_values=np.nan, strategy='median')
 
-    categorical_df = df.drop('INSAGE', axis=1)
-    numerical_df = df.loc[:, ['INSAGE']]
+    if predictors_to_exclude is not None:
+        df = df.drop(columns=predictors_to_exclude)
+
+    if 'INSAGE' in predictors_to_exclude:
+        categorical_df = df
+        numerical_df = None
+    else:
+        categorical_df = df.drop('INSAGE', axis=1)
+        numerical_df = df.loc[:, ['INSAGE']]
+        imputed_numerical_df = pd.DataFrame(np.round(numerical_imputer.fit_transform(numerical_df)), columns=numerical_df.columns, index=df.index)
 
     imputed_categorical_df = pd.DataFrame(categorical_imputer.fit_transform(categorical_df), columns=categorical_df.columns,index=df.index)
-    imputed_numerical_df = pd.DataFrame(np.round(numerical_imputer.fit_transform(numerical_df)), columns=numerical_df.columns, index=df.index)
-
+    
     encoder = OneHotEncoder(sparse_output=False)
     encoded_df = pd.DataFrame(encoder.fit_transform(imputed_categorical_df), columns = encoder.get_feature_names_out(), index=df.index)
-    encoded_df = encoded_df.drop(columns=['PREVCLM_No', 'MARITAL_STATUS_Single', 'GENDER_Female', 'SEATBELT_Yes', 'VEHICLE_TYPE_Small car'])
+    to_remove_cols = ['PREVCLM_No', 'MARITAL_STATUS_Single', 'GENDER_Female', 'SEATBELT_Yes', 'VEHICLE_TYPE_Small car']
+    
+    included_categorical_cols = [col for col in encoder.get_feature_names_out() if col in to_remove_cols]
+    encoded_df = encoded_df.drop(columns=included_categorical_cols)
     
     imputed_df = encoded_df
-    imputed_df['INSAGE'] = imputed_numerical_df.INSAGE
+    if 'INSAGE' not in predictors_to_exclude:
+        imputed_df['INSAGE'] = imputed_numerical_df.INSAGE
     ols_df = sm.add_constant(imputed_df)
     return ols_df
 
 def create_premium_df(df, target_series, expected_loss_series):
-    df = df.copy().reset_index()
+    df = df.copy()
     expected_loss_series.index = df.index
     df['target'] = target_series
     df['expected_loss'] = expected_loss_series
